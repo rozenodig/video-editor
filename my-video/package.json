@@ -1,0 +1,48 @@
+{
+  "name": "my-video",
+  "version": "1.0.0",
+  "description": "My Remotion video",
+  "repository": {},
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "@remotion/captions": "4.0.441",
+    "@remotion/cli": "4.0.441",
+    "@remotion/install-whisper-cpp": "4.0.441",
+    "@remotion/media": "4.0.441",
+    "@remotion/media-utils": "4.0.441",
+    "@remotion/tailwind-v4": "4.0.441",
+    "@types/node": "22.15.2",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.441",
+    "tailwindcss": "4.0.0",
+    "tsx": "4.19.4"
+  },
+  "devDependencies": {
+    "@remotion/eslint-config-flat": "4.0.441",
+    "@types/react": "19.2.7",
+    "@types/web": "0.0.166",
+    "eslint": "9.19.0",
+    "prettier": "3.8.1",
+    "typescript": "5.9.3"
+  },
+  "scripts": {
+    "dev": "remotion studio",
+    "build": "remotion bundle",
+    "upgrade": "remotion upgrade",
+    "lint": "eslint src && tsc",
+    "analyze-video": "tsx scripts/analyze-video.ts",
+    "analyze-audio": "tsx scripts/analyze-audio.ts",
+    "create-edit": "tsx scripts/create-edit.ts",
+    "generate-edit": "tsx scripts/generate-edit.ts",
+    "render": "tsx scripts/render-video.ts",
+    "batch-render": "tsx scripts/batch-render.ts",
+    "transcribe": "tsx scripts/transcribe.ts",
+    "extract-audio": "tsx scripts/extract-audio.ts",
+    "convert-clip": "tsx scripts/convert-clip.ts"
+  },
+  "sideEffects": [
+    "*.css"
+  ]
+}

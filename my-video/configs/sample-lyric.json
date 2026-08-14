@@ -1,0 +1,42 @@
+{
+  "id": "sample-lyric",
+  "title": "Sample Lyric Video",
+  "mode": "lyric",
+  "audioSrc": "clips/source-b.mp4",
+  "captionsPath": "captions/sample.json",
+  "clips": [
+    {
+      "src": "clips/source-b.mp4",
+      "startFrom": 0,
+      "endAt": 5,
+      "showAt": 0
+    },
+    {
+      "src": "clips/source-b.mp4",
+      "startFrom": 5,
+      "endAt": 10,
+      "showAt": 5
+    }
+  ],
+  "captionStyle": {
+    "preset": "bounce",
+    "fontSize": 72,
+    "fontFamily": "Inter",
+    "activeColor": "#FFFFFF",
+    "inactiveColor": "rgba(255,255,255,0.5)",
+    "backgroundColor": "rgba(0,0,0,0.4)",
+    "position": "center",
+    "combineTokensWithinMs": 1200
+  },
+  "effects": {
+    "beatSync": false,
+    "transitions": "cut",
+    "vignette": true
+  },
+  "output": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationInSeconds": 10
+  }
+}

@@ -1,0 +1,752 @@
+{
+  "id": "musikvideo-vibe-16s-40s",
+  "title": "musikvideo Vibe Edit (16s-40s)",
+  "mode": "edit",
+  "audioSrc": "clips/musikvideo.mp4",
+  "audioStartFrom": 16,
+  "clips": [
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 2.75,
+      "endAt": 3.823,
+      "showAt": 0,
+      "playbackRate": 0.6,
+      "scale": 1.02,
+      "scaleAnchor": {
+        "x": 0.44,
+        "y": 0.55
+      }
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 112.64,
+      "endAt": 113.662,
+      "showAt": 1.789,
+      "playbackRate": 0.6,
+      "scale": 1.09,
+      "scaleAnchor": {
+        "x": 0.58,
+        "y": 0.62
+      },
+      "transition": "cut"
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 13.2,
+      "endAt": 13.867,
+      "showAt": 3.493,
+      "playbackRate": 0.5,
+      "scale": 1.09,
+      "scaleAnchor": {
+        "x": 0.33,
+        "y": 0.35
+      },
+      "transition": "glitch"
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 50.16,
+      "endAt": 50.366,
+      "showAt": 4.826,
+      "playbackRate": 0.5,
+      "scale": 1.02,
+      "scaleAnchor": {
+        "x": 0.59,
+        "y": 0.41
+      },
+      "transition": "zoom"
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 41.96,
+      "endAt": 42.507,
+      "showAt": 5.237,
+      "playbackRate": 1.15,
+      "scale": 1.02,
+      "scaleAnchor": {
+        "x": 0.5,
+        "y": 0.36
+      },
+      "transition": "zoom"
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 60.44,
+      "endAt": 60.686,
+      "showAt": 5.713,
+      "playbackRate": 0.5,
+      "scale": 1.11,
+      "scaleAnchor": {
+        "x": 0.57,
+        "y": 0.42
+      },
+      "transition": "cut"
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 84.36,
+      "endAt": 84.776,
+      "showAt": 6.204,
+      "playbackRate": 1,
+      "scale": 1.03,
+      "scaleAnchor": {
+        "x": 0.69,
+        "y": 0.68
+      },
+      "transition": "glitch"
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 0,
+      "endAt": 0.814,
+      "showAt": 6.62,
+      "playbackRate": 0.5,
+      "scale": 1.15,
+      "scaleAnchor": {
+        "x": 0.67,
+        "y": 0.4
+      },
+      "transition": "zoom"
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 63.2,
+      "endAt": 63.713,
+      "showAt": 8.249,
+      "playbackRate": 1.15,
+      "scale": 1.04,
+      "scaleAnchor": {
+        "x": 0.43,
+        "y": 0.46
+      },
+      "transition": "glitch"
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 92.88,
+      "endAt": 93.075,
+      "showAt": 8.695,
+      "playbackRate": 0.5,
+      "scale": 1.11,
+      "scaleAnchor": {
+        "x": 0.46,
+        "y": 0.49
+      },
+      "transition": "zoom"
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 21.12,
+      "endAt": 21.323,
+      "showAt": 9.086,
+      "playbackRate": 0.5,
+      "scale": 1.02,
+      "scaleAnchor": {
+        "x": 0.41,
+        "y": 0.55
+      },
+      "transition": "zoom"
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 108.52,
+      "endAt": 109.117,
+      "showAt": 9.491,
+      "playbackRate": 0.5,
+      "scale": 1.06,
+      "scaleAnchor": {
+        "x": 0.36,
+        "y": 0.46
+      },
+      "transition": "glitch"
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 131.56,
+      "endAt": 131.786,
+      "showAt": 10.684,
+      "playbackRate": 0.5,
+      "scale": 1.11,
+      "scaleAnchor": {
+        "x": 0.59,
+        "y": 0.65
+      },
+      "transition": "glitch"
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 6.68,
+      "endAt": 6.885,
+      "showAt": 11.135,
+      "playbackRate": 0.5,
+      "scale": 1.14,
+      "scaleAnchor": {
+        "x": 0.42,
+        "y": 0.47
+      },
+      "transition": "glitch"
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 70.48,
+      "endAt": 70.713,
+      "showAt": 11.546,
+      "playbackRate": 0.5,
+      "scale": 1.05,
+      "scaleAnchor": {
+        "x": 0.62,
+        "y": 0.42
+      },
+      "transition": "glitch"
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 11.48,
+      "endAt": 13.059,
+      "showAt": 12.012,
+      "playbackRate": 1,
+      "scale": 1.14,
+      "scaleAnchor": {
+        "x": 0.69,
+        "y": 0.4
+      },
+      "transition": "glitch"
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 51.8,
+      "endAt": 52.424,
+      "showAt": 13.591,
+      "playbackRate": 0.5,
+      "scale": 1.07,
+      "scaleAnchor": {
+        "x": 0.55,
+        "y": 0.4
+      },
+      "transition": "glitch"
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 48.12,
+      "endAt": 48.536,
+      "showAt": 14.839,
+      "playbackRate": 1,
+      "scale": 1.13,
+      "scaleAnchor": {
+        "x": 0.65,
+        "y": 0.54
+      },
+      "transition": "flash"
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 77.68,
+      "endAt": 78.04,
+      "showAt": 15.255,
+      "playbackRate": 1.15,
+      "scale": 1.07,
+      "scaleAnchor": {
+        "x": 0.56,
+        "y": 0.64
+      },
+      "transition": "zoom"
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 16.52,
+      "endAt": 17.88,
+      "showAt": 15.575,
+      "playbackRate": 1.15,
+      "scale": 1.14,
+      "scaleAnchor": {
+        "x": 0.52,
+        "y": 0.67
+      },
+      "transition": "glitch"
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 76.48,
+      "endAt": 76.701,
+      "showAt": 16.758,
+      "playbackRate": 0.5,
+      "scale": 1.06,
+      "scaleAnchor": {
+        "x": 0.5,
+        "y": 0.61
+      },
+      "transition": "zoom"
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 96.44,
+      "endAt": 96.901,
+      "showAt": 17.199,
+      "playbackRate": 1,
+      "scale": 1.14,
+      "scaleAnchor": {
+        "x": 0.31,
+        "y": 0.58
+      },
+      "transition": "flash"
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 34.2,
+      "endAt": 34.433,
+      "showAt": 17.66,
+      "playbackRate": 0.5,
+      "scale": 1.07,
+      "scaleAnchor": {
+        "x": 0.61,
+        "y": 0.31
+      },
+      "transition": "cut"
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 47.32,
+      "endAt": 47.776,
+      "showAt": 18.126,
+      "playbackRate": 1,
+      "scale": 1.1,
+      "scaleAnchor": {
+        "x": 0.59,
+        "y": 0.63
+      },
+      "transition": "flash"
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 110.96,
+      "endAt": 112.64,
+      "showAt": 18.582,
+      "playbackRate": 1,
+      "scale": 1.06,
+      "scaleAnchor": {
+        "x": 0.65,
+        "y": 0.55
+      },
+      "transition": "cut"
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 64.56,
+      "endAt": 65.424,
+      "showAt": 20.261,
+      "playbackRate": 0.5,
+      "scale": 1.05,
+      "scaleAnchor": {
+        "x": 0.48,
+        "y": 0.32
+      },
+      "transition": "cut"
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 29,
+      "endAt": 29.226,
+      "showAt": 21.99,
+      "playbackRate": 0.5,
+      "scale": 1.05,
+      "scaleAnchor": {
+        "x": 0.6,
+        "y": 0.56
+      },
+      "transition": "zoom"
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 32.96,
+      "endAt": 33.165,
+      "showAt": 22.441,
+      "playbackRate": 0.5,
+      "scale": 1.04,
+      "scaleAnchor": {
+        "x": 0.32,
+        "y": 0.42
+      },
+      "transition": "glitch"
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 15.36,
+      "endAt": 15.648,
+      "showAt": 22.852,
+      "playbackRate": 0.5,
+      "scale": 1.1,
+      "scaleAnchor": {
+        "x": 0.41,
+        "y": 0.58
+      },
+      "transition": "zoom"
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 10.24,
+      "endAt": 10.446,
+      "showAt": 23.428,
+      "playbackRate": 0.5,
+      "scale": 1.13,
+      "scaleAnchor": {
+        "x": 0.6,
+        "y": 0.36
+      },
+      "transition": "zoom"
+    }
+  ],
+  "effects": {
+    "beatSync": true,
+    "beats": [
+      {
+        "timeInSeconds": 3.493,
+        "effect": "pulse",
+        "intensity": 0.87
+      },
+      {
+        "timeInSeconds": 3.693,
+        "effect": "flash",
+        "intensity": 0.87
+      },
+      {
+        "timeInSeconds": 3.914,
+        "effect": "pulse",
+        "intensity": 0.7889999999999999
+      },
+      {
+        "timeInSeconds": 4.124,
+        "effect": "shake",
+        "intensity": 1.1520000000000001
+      },
+      {
+        "timeInSeconds": 4.124,
+        "effect": "flash",
+        "intensity": 0.6890000000000001
+      },
+      {
+        "timeInSeconds": 4.56,
+        "effect": "pulse",
+        "intensity": 1.465
+      },
+      {
+        "timeInSeconds": 4.826,
+        "effect": "flash",
+        "intensity": 0.855
+      },
+      {
+        "timeInSeconds": 5.026,
+        "effect": "shake",
+        "intensity": 1.24
+      },
+      {
+        "timeInSeconds": 5.026,
+        "effect": "flash",
+        "intensity": 0.755
+      },
+      {
+        "timeInSeconds": 5.237,
+        "effect": "pulse",
+        "intensity": 0.855
+      },
+      {
+        "timeInSeconds": 6.204,
+        "effect": "pulse",
+        "intensity": 1.456
+      },
+      {
+        "timeInSeconds": 6.84,
+        "effect": "flash",
+        "intensity": 0.8999999999999999
+      },
+      {
+        "timeInSeconds": 7.046,
+        "effect": "flash",
+        "intensity": 0.8999999999999999
+      },
+      {
+        "timeInSeconds": 7.246,
+        "effect": "shake",
+        "intensity": 1.3
+      },
+      {
+        "timeInSeconds": 7.246,
+        "effect": "flash",
+        "intensity": 0.8
+      },
+      {
+        "timeInSeconds": 7.848,
+        "effect": "pulse",
+        "intensity": 1.573
+      },
+      {
+        "timeInSeconds": 8.048,
+        "effect": "pulse",
+        "intensity": 0.873
+      },
+      {
+        "timeInSeconds": 8.249,
+        "effect": "flash",
+        "intensity": 0.873
+      },
+      {
+        "timeInSeconds": 9.291,
+        "effect": "flash",
+        "intensity": 0.8819999999999999
+      },
+      {
+        "timeInSeconds": 9.491,
+        "effect": "shake",
+        "intensity": 1.276
+      },
+      {
+        "timeInSeconds": 9.491,
+        "effect": "flash",
+        "intensity": 0.782
+      },
+      {
+        "timeInSeconds": 9.702,
+        "effect": "flash",
+        "intensity": 0.8819999999999999
+      },
+      {
+        "timeInSeconds": 9.932,
+        "effect": "pulse",
+        "intensity": 1.546
+      },
+      {
+        "timeInSeconds": 10.243,
+        "effect": "flash",
+        "intensity": 0.846
+      },
+      {
+        "timeInSeconds": 10.459,
+        "effect": "shake",
+        "intensity": 1.176
+      },
+      {
+        "timeInSeconds": 10.459,
+        "effect": "flash",
+        "intensity": 0.707
+      },
+      {
+        "timeInSeconds": 10.684,
+        "effect": "flash",
+        "intensity": 0.8069999999999999
+      },
+      {
+        "timeInSeconds": 11.135,
+        "effect": "pulse",
+        "intensity": 1.429
+      },
+      {
+        "timeInSeconds": 11.341,
+        "effect": "flash",
+        "intensity": 0.858
+      },
+      {
+        "timeInSeconds": 11.546,
+        "effect": "shake",
+        "intensity": 1.244
+      },
+      {
+        "timeInSeconds": 11.546,
+        "effect": "flash",
+        "intensity": 0.758
+      },
+      {
+        "timeInSeconds": 11.782,
+        "effect": "pulse",
+        "intensity": 0.78
+      },
+      {
+        "timeInSeconds": 12.012,
+        "effect": "pulse",
+        "intensity": 1.48
+      },
+      {
+        "timeInSeconds": 12.964,
+        "effect": "flash",
+        "intensity": 0.768
+      },
+      {
+        "timeInSeconds": 13.19,
+        "effect": "pulse",
+        "intensity": 0.768
+      },
+      {
+        "timeInSeconds": 13.39,
+        "effect": "pulse",
+        "intensity": 0.8999999999999999
+      },
+      {
+        "timeInSeconds": 13.591,
+        "effect": "pulse",
+        "intensity": 0.8999999999999999
+      },
+      {
+        "timeInSeconds": 14.017,
+        "effect": "shake",
+        "intensity": 1.112
+      },
+      {
+        "timeInSeconds": 14.017,
+        "effect": "flash",
+        "intensity": 0.659
+      },
+      {
+        "timeInSeconds": 14.222,
+        "effect": "pulse",
+        "intensity": 1.459
+      },
+      {
+        "timeInSeconds": 14.423,
+        "effect": "shake",
+        "intensity": 1.2160000000000002
+      },
+      {
+        "timeInSeconds": 14.423,
+        "effect": "flash",
+        "intensity": 0.737
+      },
+      {
+        "timeInSeconds": 14.839,
+        "effect": "pulse",
+        "intensity": 1.42
+      },
+      {
+        "timeInSeconds": 15.255,
+        "effect": "pulse",
+        "intensity": 0.849
+      },
+      {
+        "timeInSeconds": 15.575,
+        "effect": "flash",
+        "intensity": 0.849
+      },
+      {
+        "timeInSeconds": 16.352,
+        "effect": "flash",
+        "intensity": 0.843
+      },
+      {
+        "timeInSeconds": 16.557,
+        "effect": "pulse",
+        "intensity": 0.843
+      },
+      {
+        "timeInSeconds": 16.758,
+        "effect": "flash",
+        "intensity": 0.843
+      },
+      {
+        "timeInSeconds": 16.983,
+        "effect": "flash",
+        "intensity": 0.843
+      },
+      {
+        "timeInSeconds": 17.199,
+        "effect": "shake",
+        "intensity": 1.2240000000000002
+      },
+      {
+        "timeInSeconds": 17.199,
+        "effect": "flash",
+        "intensity": 0.743
+      },
+      {
+        "timeInSeconds": 17.86,
+        "effect": "pulse",
+        "intensity": 0.849
+      },
+      {
+        "timeInSeconds": 18.126,
+        "effect": "pulse",
+        "intensity": 1.549
+      },
+      {
+        "timeInSeconds": 19.84,
+        "effect": "pulse",
+        "intensity": 0.87
+      },
+      {
+        "timeInSeconds": 20.05,
+        "effect": "flash",
+        "intensity": 0.87
+      },
+      {
+        "timeInSeconds": 20.471,
+        "effect": "shake",
+        "intensity": 1.108
+      },
+      {
+        "timeInSeconds": 20.471,
+        "effect": "flash",
+        "intensity": 0.656
+      },
+      {
+        "timeInSeconds": 20.907,
+        "effect": "pulse",
+        "intensity": 0.8069999999999999
+      },
+      {
+        "timeInSeconds": 21.303,
+        "effect": "pulse",
+        "intensity": 0.774
+      },
+      {
+        "timeInSeconds": 21.504,
+        "effect": "pulse",
+        "intensity": 0.774
+      },
+      {
+        "timeInSeconds": 22.441,
+        "effect": "pulse",
+        "intensity": 1.561
+      },
+      {
+        "timeInSeconds": 22.641,
+        "effect": "shake",
+        "intensity": 1.248
+      },
+      {
+        "timeInSeconds": 22.641,
+        "effect": "flash",
+        "intensity": 0.761
+      },
+      {
+        "timeInSeconds": 22.852,
+        "effect": "pulse",
+        "intensity": 0.774
+      },
+      {
+        "timeInSeconds": 23.072,
+        "effect": "pulse",
+        "intensity": 0.774
+      },
+      {
+        "timeInSeconds": 23.428,
+        "effect": "flash",
+        "intensity": 0.8999999999999999
+      },
+      {
+        "timeInSeconds": 23.633,
+        "effect": "pulse",
+        "intensity": 1.6
+      },
+      {
+        "timeInSeconds": 23.839,
+        "effect": "flash",
+        "intensity": 0.8999999999999999
+      }
+    ],
+    "transitions": "glitch",
+    "colorGrade": "highContrast",
+    "vignette": true
+  },
+  "output": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationInSeconds": 24
+  }
+}

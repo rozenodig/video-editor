@@ -1,0 +1,89 @@
+{
+  "id": "source-b-edit",
+  "title": "Source B Hype Edit",
+  "mode": "edit",
+  "audioSrc": "clips/source-b.mp4",
+  "clips": [
+    {
+      "src": "clips/source-b.mp4",
+      "startFrom": 0,
+      "endAt": 1.8,
+      "showAt": 0
+    },
+    {
+      "src": "clips/source-b.mp4",
+      "startFrom": 2.5,
+      "endAt": 4.2,
+      "showAt": 1.8
+    },
+    {
+      "src": "clips/source-b.mp4",
+      "startFrom": 5.0,
+      "endAt": 6.5,
+      "showAt": 3.5
+    },
+    {
+      "src": "clips/source-b.mp4",
+      "startFrom": 7.0,
+      "endAt": 8.8,
+      "showAt": 5.0
+    },
+    {
+      "src": "clips/source-b.mp4",
+      "startFrom": 9.0,
+      "endAt": 10.5,
+      "showAt": 6.8
+    },
+    {
+      "src": "clips/source-b.mp4",
+      "startFrom": 10.8,
+      "endAt": 12.2,
+      "showAt": 8.3
+    },
+    {
+      "src": "clips/source-b.mp4",
+      "startFrom": 12.5,
+      "endAt": 14.0,
+      "showAt": 9.7
+    },
+    {
+      "src": "clips/source-b.mp4",
+      "startFrom": 14.0,
+      "endAt": 15.7,
+      "showAt": 11.2
+    }
+  ],
+  "effects": {
+    "beatSync": true,
+    "beats": [
+      { "timeInSeconds": 0.0, "effect": "flash", "intensity": 1.0 },
+      { "timeInSeconds": 0.8, "effect": "pulse", "intensity": 1.3 },
+      { "timeInSeconds": 1.8, "effect": "shake", "intensity": 1.5 },
+      { "timeInSeconds": 2.5, "effect": "flash", "intensity": 0.9 },
+      { "timeInSeconds": 3.2, "effect": "pulse", "intensity": 1.2 },
+      { "timeInSeconds": 3.5, "effect": "shake", "intensity": 1.4 },
+      { "timeInSeconds": 4.3, "effect": "flash", "intensity": 1.1 },
+      { "timeInSeconds": 5.0, "effect": "pulse", "intensity": 1.5 },
+      { "timeInSeconds": 5.8, "effect": "shake", "intensity": 1.3 },
+      { "timeInSeconds": 6.5, "effect": "flash", "intensity": 1.0 },
+      { "timeInSeconds": 6.8, "effect": "pulse", "intensity": 1.6 },
+      { "timeInSeconds": 7.5, "effect": "shake", "intensity": 1.4 },
+      { "timeInSeconds": 8.3, "effect": "flash", "intensity": 1.2 },
+      { "timeInSeconds": 9.0, "effect": "pulse", "intensity": 1.3 },
+      { "timeInSeconds": 9.7, "effect": "shake", "intensity": 1.5 },
+      { "timeInSeconds": 10.5, "effect": "flash", "intensity": 1.1 },
+      { "timeInSeconds": 11.2, "effect": "pulse", "intensity": 1.6 },
+      { "timeInSeconds": 12.0, "effect": "shake", "intensity": 1.4 },
+      { "timeInSeconds": 12.8, "effect": "flash", "intensity": 1.3 }
+    ],
+    "transitions": "glitch",
+    "colorGrade": "highContrast",
+    "vignette": true
+  },
+  "output": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationInSeconds": 13
+  }
+}

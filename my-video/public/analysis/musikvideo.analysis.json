@@ -1,0 +1,1367 @@
+{
+  "sourceVideo": "clips/musikvideo.mp4",
+  "duration": 145.310476,
+  "fps": 25,
+  "width": 1600,
+  "height": 1080,
+  "scenes": [
+    {
+      "startTime": 0,
+      "endTime": 2.75,
+      "duration": 2.75,
+      "visualEnergy": 0.38
+    },
+    {
+      "startTime": 2.75,
+      "endTime": 5.04,
+      "duration": 2.29,
+      "visualEnergy": 0.28
+    },
+    {
+      "startTime": 5.04,
+      "endTime": 5.12,
+      "duration": 0.08,
+      "visualEnergy": 0.64
+    },
+    {
+      "startTime": 5.12,
+      "endTime": 6.68,
+      "duration": 1.56,
+      "visualEnergy": 0.28
+    },
+    {
+      "startTime": 6.68,
+      "endTime": 9.88,
+      "duration": 3.2,
+      "visualEnergy": 0.34
+    },
+    {
+      "startTime": 9.88,
+      "endTime": 10.2,
+      "duration": 0.32,
+      "visualEnergy": 0.33
+    },
+    {
+      "startTime": 10.2,
+      "endTime": 10.24,
+      "duration": 0.04,
+      "visualEnergy": 0
+    },
+    {
+      "startTime": 10.24,
+      "endTime": 11.48,
+      "duration": 1.24,
+      "visualEnergy": 0.29
+    },
+    {
+      "startTime": 11.48,
+      "endTime": 13.2,
+      "duration": 1.72,
+      "visualEnergy": 0.33
+    },
+    {
+      "startTime": 13.2,
+      "endTime": 15.36,
+      "duration": 2.16,
+      "visualEnergy": 0.39
+    },
+    {
+      "startTime": 15.36,
+      "endTime": 16.52,
+      "duration": 1.16,
+      "visualEnergy": 0.34
+    },
+    {
+      "startTime": 16.52,
+      "endTime": 18.92,
+      "duration": 2.4,
+      "visualEnergy": 0.27
+    },
+    {
+      "startTime": 18.92,
+      "endTime": 19.92,
+      "duration": 1,
+      "visualEnergy": 0.27
+    },
+    {
+      "startTime": 19.92,
+      "endTime": 20.48,
+      "duration": 0.56,
+      "visualEnergy": 0.3
+    },
+    {
+      "startTime": 20.48,
+      "endTime": 21,
+      "duration": 0.52,
+      "visualEnergy": 0.19
+    },
+    {
+      "startTime": 21,
+      "endTime": 21.12,
+      "duration": 0.12,
+      "visualEnergy": 0.43
+    },
+    {
+      "startTime": 21.12,
+      "endTime": 21.76,
+      "duration": 0.64,
+      "visualEnergy": 0.39
+    },
+    {
+      "startTime": 21.76,
+      "endTime": 22.28,
+      "duration": 0.52,
+      "visualEnergy": 0.3
+    },
+    {
+      "startTime": 22.28,
+      "endTime": 23.84,
+      "duration": 1.56,
+      "visualEnergy": 0.19
+    },
+    {
+      "startTime": 23.84,
+      "endTime": 25.16,
+      "duration": 1.32,
+      "visualEnergy": 0.21
+    },
+    {
+      "startTime": 25.16,
+      "endTime": 25.28,
+      "duration": 0.12,
+      "visualEnergy": 0.48
+    },
+    {
+      "startTime": 25.28,
+      "endTime": 25.6,
+      "duration": 0.32,
+      "visualEnergy": 0.29
+    },
+    {
+      "startTime": 25.6,
+      "endTime": 25.96,
+      "duration": 0.36,
+      "visualEnergy": 0.28
+    },
+    {
+      "startTime": 25.96,
+      "endTime": 26.36,
+      "duration": 0.4,
+      "visualEnergy": 0.18
+    },
+    {
+      "startTime": 26.36,
+      "endTime": 27.72,
+      "duration": 1.36,
+      "visualEnergy": 0.16
+    },
+    {
+      "startTime": 27.72,
+      "endTime": 28.04,
+      "duration": 0.32,
+      "visualEnergy": 0.35
+    },
+    {
+      "startTime": 28.04,
+      "endTime": 29,
+      "duration": 0.96,
+      "visualEnergy": 0.23
+    },
+    {
+      "startTime": 29,
+      "endTime": 29.68,
+      "duration": 0.68,
+      "visualEnergy": 0.32
+    },
+    {
+      "startTime": 29.68,
+      "endTime": 30.2,
+      "duration": 0.52,
+      "visualEnergy": 0.27
+    },
+    {
+      "startTime": 30.2,
+      "endTime": 31.28,
+      "duration": 1.08,
+      "visualEnergy": 0.17
+    },
+    {
+      "startTime": 31.28,
+      "endTime": 32.48,
+      "duration": 1.2,
+      "visualEnergy": 0.22
+    },
+    {
+      "startTime": 32.48,
+      "endTime": 32.96,
+      "duration": 0.48,
+      "visualEnergy": 0.25
+    },
+    {
+      "startTime": 32.96,
+      "endTime": 34.2,
+      "duration": 1.24,
+      "visualEnergy": 0.33
+    },
+    {
+      "startTime": 34.2,
+      "endTime": 34.92,
+      "duration": 0.72,
+      "visualEnergy": 0.34
+    },
+    {
+      "startTime": 34.92,
+      "endTime": 35.68,
+      "duration": 0.76,
+      "visualEnergy": 0.28
+    },
+    {
+      "startTime": 35.68,
+      "endTime": 35.84,
+      "duration": 0.16,
+      "visualEnergy": 0.43
+    },
+    {
+      "startTime": 35.84,
+      "endTime": 36.36,
+      "duration": 0.52,
+      "visualEnergy": 0.23
+    },
+    {
+      "startTime": 36.36,
+      "endTime": 36.48,
+      "duration": 0.12,
+      "visualEnergy": 0.33
+    },
+    {
+      "startTime": 36.48,
+      "endTime": 36.72,
+      "duration": 0.24,
+      "visualEnergy": 0.6
+    },
+    {
+      "startTime": 36.72,
+      "endTime": 36.8,
+      "duration": 0.08,
+      "visualEnergy": 0.72
+    },
+    {
+      "startTime": 36.8,
+      "endTime": 37.6,
+      "duration": 0.8,
+      "visualEnergy": 0.28
+    },
+    {
+      "startTime": 37.6,
+      "endTime": 38.44,
+      "duration": 0.84,
+      "visualEnergy": 0.29
+    },
+    {
+      "startTime": 38.44,
+      "endTime": 38.68,
+      "duration": 0.24,
+      "visualEnergy": 0.23
+    },
+    {
+      "startTime": 38.68,
+      "endTime": 39.08,
+      "duration": 0.4,
+      "visualEnergy": 0.43
+    },
+    {
+      "startTime": 39.08,
+      "endTime": 39.64,
+      "duration": 0.56,
+      "visualEnergy": 0.27
+    },
+    {
+      "startTime": 39.64,
+      "endTime": 40.32,
+      "duration": 0.68,
+      "visualEnergy": 0.29
+    },
+    {
+      "startTime": 40.32,
+      "endTime": 40.96,
+      "duration": 0.64,
+      "visualEnergy": 0.31
+    },
+    {
+      "startTime": 40.96,
+      "endTime": 41.52,
+      "duration": 0.56,
+      "visualEnergy": 0.27
+    },
+    {
+      "startTime": 41.52,
+      "endTime": 41.96,
+      "duration": 0.44,
+      "visualEnergy": 0.14
+    },
+    {
+      "startTime": 41.96,
+      "endTime": 42.92,
+      "duration": 0.96,
+      "visualEnergy": 0.37
+    },
+    {
+      "startTime": 42.92,
+      "endTime": 43.96,
+      "duration": 1.04,
+      "visualEnergy": 0.26
+    },
+    {
+      "startTime": 43.96,
+      "endTime": 44.8,
+      "duration": 0.84,
+      "visualEnergy": 0.27
+    },
+    {
+      "startTime": 44.8,
+      "endTime": 46.12,
+      "duration": 1.32,
+      "visualEnergy": 0.25
+    },
+    {
+      "startTime": 46.12,
+      "endTime": 47.32,
+      "duration": 1.2,
+      "visualEnergy": 0.23
+    },
+    {
+      "startTime": 47.32,
+      "endTime": 48.12,
+      "duration": 0.8,
+      "visualEnergy": 0.37
+    },
+    {
+      "startTime": 48.12,
+      "endTime": 48.56,
+      "duration": 0.44,
+      "visualEnergy": 0.35
+    },
+    {
+      "startTime": 48.56,
+      "endTime": 48.76,
+      "duration": 0.2,
+      "visualEnergy": 0.34
+    },
+    {
+      "startTime": 48.76,
+      "endTime": 50.12,
+      "duration": 1.36,
+      "visualEnergy": 0.19
+    },
+    {
+      "startTime": 50.12,
+      "endTime": 50.16,
+      "duration": 0.04,
+      "visualEnergy": 0
+    },
+    {
+      "startTime": 50.16,
+      "endTime": 51.2,
+      "duration": 1.04,
+      "visualEnergy": 0.43
+    },
+    {
+      "startTime": 51.2,
+      "endTime": 51.8,
+      "duration": 0.6,
+      "visualEnergy": 0.14
+    },
+    {
+      "startTime": 51.8,
+      "endTime": 53.25,
+      "duration": 1.45,
+      "visualEnergy": 0.36
+    },
+    {
+      "startTime": 53.25,
+      "endTime": 54.68,
+      "duration": 1.43,
+      "visualEnergy": 0.25
+    },
+    {
+      "startTime": 54.68,
+      "endTime": 55.96,
+      "duration": 1.28,
+      "visualEnergy": 0.29
+    },
+    {
+      "startTime": 55.96,
+      "endTime": 56.32,
+      "duration": 0.36,
+      "visualEnergy": 0.31
+    },
+    {
+      "startTime": 56.32,
+      "endTime": 57.96,
+      "duration": 1.64,
+      "visualEnergy": 0.26
+    },
+    {
+      "startTime": 57.96,
+      "endTime": 59.36,
+      "duration": 1.4,
+      "visualEnergy": 0.2
+    },
+    {
+      "startTime": 59.36,
+      "endTime": 60.44,
+      "duration": 1.08,
+      "visualEnergy": 0.31
+    },
+    {
+      "startTime": 60.44,
+      "endTime": 61.44,
+      "duration": 1,
+      "visualEnergy": 0.34
+    },
+    {
+      "startTime": 61.44,
+      "endTime": 62.64,
+      "duration": 1.2,
+      "visualEnergy": 0.24
+    },
+    {
+      "startTime": 62.64,
+      "endTime": 63.2,
+      "duration": 0.56,
+      "visualEnergy": 0.26
+    },
+    {
+      "startTime": 63.2,
+      "endTime": 64.24,
+      "duration": 1.04,
+      "visualEnergy": 0.38
+    },
+    {
+      "startTime": 64.24,
+      "endTime": 64.56,
+      "duration": 0.32,
+      "visualEnergy": 0.29
+    },
+    {
+      "startTime": 64.56,
+      "endTime": 66.68,
+      "duration": 2.12,
+      "visualEnergy": 0.3
+    },
+    {
+      "startTime": 66.68,
+      "endTime": 67.12,
+      "duration": 0.44,
+      "visualEnergy": 0.32
+    },
+    {
+      "startTime": 67.12,
+      "endTime": 67.2,
+      "duration": 0.08,
+      "visualEnergy": 0.4
+    },
+    {
+      "startTime": 67.2,
+      "endTime": 67.32,
+      "duration": 0.12,
+      "visualEnergy": 0.35
+    },
+    {
+      "startTime": 67.32,
+      "endTime": 68.5,
+      "duration": 1.18,
+      "visualEnergy": 0.34
+    },
+    {
+      "startTime": 68.5,
+      "endTime": 70.48,
+      "duration": 1.98,
+      "visualEnergy": 0.19
+    },
+    {
+      "startTime": 70.48,
+      "endTime": 71.32,
+      "duration": 0.84,
+      "visualEnergy": 0.38
+    },
+    {
+      "startTime": 71.32,
+      "endTime": 71.92,
+      "duration": 0.6,
+      "visualEnergy": 0.25
+    },
+    {
+      "startTime": 71.92,
+      "endTime": 71.96,
+      "duration": 0.04,
+      "visualEnergy": 0
+    },
+    {
+      "startTime": 71.96,
+      "endTime": 73.2,
+      "duration": 1.24,
+      "visualEnergy": 0.29
+    },
+    {
+      "startTime": 73.2,
+      "endTime": 73.8,
+      "duration": 0.6,
+      "visualEnergy": 0.31
+    },
+    {
+      "startTime": 73.8,
+      "endTime": 75,
+      "duration": 1.2,
+      "visualEnergy": 0.24
+    },
+    {
+      "startTime": 75,
+      "endTime": 76.48,
+      "duration": 1.48,
+      "visualEnergy": 0.26
+    },
+    {
+      "startTime": 76.48,
+      "endTime": 77.04,
+      "duration": 0.56,
+      "visualEnergy": 0.35
+    },
+    {
+      "startTime": 77.04,
+      "endTime": 77.68,
+      "duration": 0.64,
+      "visualEnergy": 0.21
+    },
+    {
+      "startTime": 77.68,
+      "endTime": 78.04,
+      "duration": 0.36,
+      "visualEnergy": 0.52
+    },
+    {
+      "startTime": 78.04,
+      "endTime": 79.08,
+      "duration": 1.04,
+      "visualEnergy": 0.18
+    },
+    {
+      "startTime": 79.08,
+      "endTime": 80.2,
+      "duration": 1.12,
+      "visualEnergy": 0.21
+    },
+    {
+      "startTime": 80.2,
+      "endTime": 81,
+      "duration": 0.8,
+      "visualEnergy": 0.34
+    },
+    {
+      "startTime": 81,
+      "endTime": 81.92,
+      "duration": 0.92,
+      "visualEnergy": 0.34
+    },
+    {
+      "startTime": 81.92,
+      "endTime": 82.4,
+      "duration": 0.48,
+      "visualEnergy": 0.19
+    },
+    {
+      "startTime": 82.4,
+      "endTime": 83.04,
+      "duration": 0.64,
+      "visualEnergy": 0.27
+    },
+    {
+      "startTime": 83.04,
+      "endTime": 84.36,
+      "duration": 1.32,
+      "visualEnergy": 0.15
+    },
+    {
+      "startTime": 84.36,
+      "endTime": 85.12,
+      "duration": 0.76,
+      "visualEnergy": 0.41
+    },
+    {
+      "startTime": 85.12,
+      "endTime": 85.24,
+      "duration": 0.12,
+      "visualEnergy": 0.89
+    },
+    {
+      "startTime": 85.24,
+      "endTime": 85.68,
+      "duration": 0.44,
+      "visualEnergy": 0.36
+    },
+    {
+      "startTime": 85.68,
+      "endTime": 87.56,
+      "duration": 1.88,
+      "visualEnergy": 0.16
+    },
+    {
+      "startTime": 87.56,
+      "endTime": 88.96,
+      "duration": 1.4,
+      "visualEnergy": 0.21
+    },
+    {
+      "startTime": 88.96,
+      "endTime": 90.08,
+      "duration": 1.12,
+      "visualEnergy": 0.15
+    },
+    {
+      "startTime": 90.08,
+      "endTime": 90.48,
+      "duration": 0.4,
+      "visualEnergy": 0.36
+    },
+    {
+      "startTime": 90.48,
+      "endTime": 91.28,
+      "duration": 0.8,
+      "visualEnergy": 0.2
+    },
+    {
+      "startTime": 91.28,
+      "endTime": 91.64,
+      "duration": 0.36,
+      "visualEnergy": 0.2
+    },
+    {
+      "startTime": 91.64,
+      "endTime": 92.16,
+      "duration": 0.52,
+      "visualEnergy": 0.25
+    },
+    {
+      "startTime": 92.16,
+      "endTime": 92.88,
+      "duration": 0.72,
+      "visualEnergy": 0.2
+    },
+    {
+      "startTime": 92.88,
+      "endTime": 93.36,
+      "duration": 0.48,
+      "visualEnergy": 0.31
+    },
+    {
+      "startTime": 93.36,
+      "endTime": 94.28,
+      "duration": 0.92,
+      "visualEnergy": 0.28
+    },
+    {
+      "startTime": 94.28,
+      "endTime": 95.4,
+      "duration": 1.12,
+      "visualEnergy": 0.13
+    },
+    {
+      "startTime": 95.4,
+      "endTime": 96.16,
+      "duration": 0.76,
+      "visualEnergy": 0.28
+    },
+    {
+      "startTime": 96.16,
+      "endTime": 96.44,
+      "duration": 0.28,
+      "visualEnergy": 0.27
+    },
+    {
+      "startTime": 96.44,
+      "endTime": 97.28,
+      "duration": 0.84,
+      "visualEnergy": 0.36
+    },
+    {
+      "startTime": 97.28,
+      "endTime": 98.76,
+      "duration": 1.48,
+      "visualEnergy": 0.18
+    },
+    {
+      "startTime": 98.76,
+      "endTime": 99.88,
+      "duration": 1.12,
+      "visualEnergy": 0.34
+    },
+    {
+      "startTime": 99.88,
+      "endTime": 101.12,
+      "duration": 1.24,
+      "visualEnergy": 0.23
+    },
+    {
+      "startTime": 101.12,
+      "endTime": 102,
+      "duration": 0.88,
+      "visualEnergy": 0.28
+    },
+    {
+      "startTime": 102,
+      "endTime": 102.4,
+      "duration": 0.4,
+      "visualEnergy": 0.26
+    },
+    {
+      "startTime": 102.4,
+      "endTime": 103.16,
+      "duration": 0.76,
+      "visualEnergy": 0.2
+    },
+    {
+      "startTime": 103.16,
+      "endTime": 104,
+      "duration": 0.84,
+      "visualEnergy": 0.18
+    },
+    {
+      "startTime": 104,
+      "endTime": 105.4,
+      "duration": 1.4,
+      "visualEnergy": 0.19
+    },
+    {
+      "startTime": 105.4,
+      "endTime": 106.52,
+      "duration": 1.12,
+      "visualEnergy": 0.31
+    },
+    {
+      "startTime": 106.52,
+      "endTime": 107.52,
+      "duration": 1,
+      "visualEnergy": 0.23
+    },
+    {
+      "startTime": 107.52,
+      "endTime": 108.52,
+      "duration": 1,
+      "visualEnergy": 0.14
+    },
+    {
+      "startTime": 108.52,
+      "endTime": 109.72,
+      "duration": 1.2,
+      "visualEnergy": 0.34
+    },
+    {
+      "startTime": 109.72,
+      "endTime": 110.96,
+      "duration": 1.24,
+      "visualEnergy": 0.12
+    },
+    {
+      "startTime": 110.96,
+      "endTime": 112.64,
+      "duration": 1.68,
+      "visualEnergy": 0.32
+    },
+    {
+      "startTime": 112.64,
+      "endTime": 116.92,
+      "duration": 4.28,
+      "visualEnergy": 0.2
+    },
+    {
+      "startTime": 116.92,
+      "endTime": 117.76,
+      "duration": 0.84,
+      "visualEnergy": 0.28
+    },
+    {
+      "startTime": 117.76,
+      "endTime": 118.48,
+      "duration": 0.72,
+      "visualEnergy": 0.14
+    },
+    {
+      "startTime": 118.48,
+      "endTime": 120,
+      "duration": 1.52,
+      "visualEnergy": 0.15
+    },
+    {
+      "startTime": 120,
+      "endTime": 121.84,
+      "duration": 1.84,
+      "visualEnergy": 0.18
+    },
+    {
+      "startTime": 121.84,
+      "endTime": 122.88,
+      "duration": 1.04,
+      "visualEnergy": 0.17
+    },
+    {
+      "startTime": 122.88,
+      "endTime": 123.72,
+      "duration": 0.84,
+      "visualEnergy": 0.21
+    },
+    {
+      "startTime": 123.72,
+      "endTime": 126.24,
+      "duration": 2.52,
+      "visualEnergy": 0.29
+    },
+    {
+      "startTime": 126.24,
+      "endTime": 128,
+      "duration": 1.76,
+      "visualEnergy": 0.17
+    },
+    {
+      "startTime": 128,
+      "endTime": 128.32,
+      "duration": 0.32,
+      "visualEnergy": 0.3
+    },
+    {
+      "startTime": 128.32,
+      "endTime": 129.16,
+      "duration": 0.84,
+      "visualEnergy": 0.23
+    },
+    {
+      "startTime": 129.16,
+      "endTime": 129.96,
+      "duration": 0.8,
+      "visualEnergy": 0.24
+    },
+    {
+      "startTime": 129.96,
+      "endTime": 131.56,
+      "duration": 1.6,
+      "visualEnergy": 0.24
+    },
+    {
+      "startTime": 131.56,
+      "endTime": 133.12,
+      "duration": 1.56,
+      "visualEnergy": 0.38
+    },
+    {
+      "startTime": 133.12,
+      "endTime": 133.96,
+      "duration": 0.84,
+      "visualEnergy": 0.27
+    },
+    {
+      "startTime": 133.96,
+      "endTime": 135,
+      "duration": 1.04,
+      "visualEnergy": 0.18
+    },
+    {
+      "startTime": 135,
+      "endTime": 136.36,
+      "duration": 1.36,
+      "visualEnergy": 0.27
+    },
+    {
+      "startTime": 136.36,
+      "endTime": 136.76,
+      "duration": 0.4,
+      "visualEnergy": 0.32
+    },
+    {
+      "startTime": 136.76,
+      "endTime": 137,
+      "duration": 0.24,
+      "visualEnergy": 0.3
+    },
+    {
+      "startTime": 137,
+      "endTime": 137.48,
+      "duration": 0.48,
+      "visualEnergy": 0.22
+    },
+    {
+      "startTime": 137.48,
+      "endTime": 137.72,
+      "duration": 0.24,
+      "visualEnergy": 0.4
+    },
+    {
+      "startTime": 137.72,
+      "endTime": 140.25,
+      "duration": 2.53,
+      "visualEnergy": 0.04
+    },
+    {
+      "startTime": 140.25,
+      "endTime": 141.25,
+      "duration": 1,
+      "visualEnergy": 0.01
+    },
+    {
+      "startTime": 141.25,
+      "endTime": 143,
+      "duration": 1.75,
+      "visualEnergy": 0
+    },
+    {
+      "startTime": 143,
+      "endTime": 144,
+      "duration": 1,
+      "visualEnergy": 0.01
+    },
+    {
+      "startTime": 144,
+      "endTime": 145,
+      "duration": 1,
+      "visualEnergy": 0.01
+    },
+    {
+      "startTime": 145,
+      "endTime": 145.31,
+      "duration": 0.31,
+      "visualEnergy": 0
+    }
+  ],
+  "sceneChanges": [
+    0,
+    2.75,
+    5.04,
+    5.12,
+    6.68,
+    9.88,
+    10.2,
+    10.24,
+    11.48,
+    13.2,
+    15.36,
+    16.52,
+    18.92,
+    19.92,
+    20.48,
+    21,
+    21.12,
+    21.76,
+    22.28,
+    23.84,
+    25.16,
+    25.28,
+    25.6,
+    25.96,
+    26.36,
+    27.72,
+    28.04,
+    29,
+    29.68,
+    30.2,
+    31.28,
+    32.48,
+    32.96,
+    34.2,
+    34.92,
+    35.68,
+    35.84,
+    36.36,
+    36.48,
+    36.72,
+    36.8,
+    37.6,
+    38.44,
+    38.68,
+    39.08,
+    39.64,
+    40.32,
+    40.96,
+    41.52,
+    41.96,
+    42.92,
+    43.96,
+    44.8,
+    46.12,
+    47.32,
+    48.12,
+    48.56,
+    48.76,
+    50.12,
+    50.16,
+    51.2,
+    51.8,
+    53.25,
+    54.68,
+    55.96,
+    56.32,
+    57.96,
+    59.36,
+    60.44,
+    61.44,
+    62.64,
+    63.2,
+    64.24,
+    64.56,
+    66.68,
+    67.12,
+    67.2,
+    67.32,
+    68.5,
+    70.48,
+    71.32,
+    71.92,
+    71.96,
+    73.2,
+    73.8,
+    75,
+    76.48,
+    77.04,
+    77.68,
+    78.04,
+    79.08,
+    80.2,
+    81,
+    81.92,
+    82.4,
+    83.04,
+    84.36,
+    85.12,
+    85.24,
+    85.68,
+    87.56,
+    88.96,
+    90.08,
+    90.48,
+    91.28,
+    91.64,
+    92.16,
+    92.88,
+    93.36,
+    94.28,
+    95.4,
+    96.16,
+    96.44,
+    97.28,
+    98.76,
+    99.88,
+    101.12,
+    102,
+    102.4,
+    103.16,
+    104,
+    105.4,
+    106.52,
+    107.52,
+    108.52,
+    109.72,
+    110.96,
+    112.64,
+    116.92,
+    117.76,
+    118.48,
+    120,
+    121.84,
+    122.88,
+    123.72,
+    126.24,
+    128,
+    128.32,
+    129.16,
+    129.96,
+    131.56,
+    133.12,
+    133.96,
+    135,
+    136.36,
+    136.76,
+    137,
+    137.48,
+    137.72,
+    140.25,
+    141.25,
+    143,
+    144,
+    145
+  ],
+  "highEnergyMoments": [
+    {
+      "timestamp": 1,
+      "energy": 1
+    },
+    {
+      "timestamp": 13.5,
+      "energy": 0.98
+    },
+    {
+      "timestamp": 85,
+      "energy": 0.96
+    },
+    {
+      "timestamp": 10,
+      "energy": 0.93
+    },
+    {
+      "timestamp": 13,
+      "energy": 0.92
+    },
+    {
+      "timestamp": 50.5,
+      "energy": 0.91
+    },
+    {
+      "timestamp": 0.5,
+      "energy": 0.88
+    },
+    {
+      "timestamp": 132,
+      "energy": 0.85
+    },
+    {
+      "timestamp": 21.5,
+      "energy": 0.84
+    },
+    {
+      "timestamp": 65,
+      "energy": 0.84
+    },
+    {
+      "timestamp": 124.5,
+      "energy": 0.82
+    },
+    {
+      "timestamp": 124,
+      "energy": 0.81
+    },
+    {
+      "timestamp": 3,
+      "energy": 0.8
+    },
+    {
+      "timestamp": 34.5,
+      "energy": 0.79
+    },
+    {
+      "timestamp": 6.5,
+      "energy": 0.78
+    },
+    {
+      "timestamp": 7,
+      "energy": 0.78
+    },
+    {
+      "timestamp": 85.5,
+      "energy": 0.78
+    },
+    {
+      "timestamp": 2.5,
+      "energy": 0.77
+    },
+    {
+      "timestamp": 81,
+      "energy": 0.77
+    },
+    {
+      "timestamp": 9.5,
+      "energy": 0.76
+    },
+    {
+      "timestamp": 11.5,
+      "energy": 0.74
+    },
+    {
+      "timestamp": 97,
+      "energy": 0.74
+    },
+    {
+      "timestamp": 5,
+      "energy": 0.73
+    },
+    {
+      "timestamp": 15,
+      "energy": 0.73
+    },
+    {
+      "timestamp": 48.5,
+      "energy": 0.73
+    },
+    {
+      "timestamp": 71,
+      "energy": 0.73
+    },
+    {
+      "timestamp": 111.5,
+      "energy": 0.73
+    },
+    {
+      "timestamp": 1.5,
+      "energy": 0.72
+    },
+    {
+      "timestamp": 10.5,
+      "energy": 0.72
+    },
+    {
+      "timestamp": 8.5,
+      "energy": 0.71
+    },
+    {
+      "timestamp": 14,
+      "energy": 0.71
+    },
+    {
+      "timestamp": 34,
+      "energy": 0.71
+    },
+    {
+      "timestamp": 42,
+      "energy": 0.71
+    },
+    {
+      "timestamp": 15.5,
+      "energy": 0.7
+    },
+    {
+      "timestamp": 99.5,
+      "energy": 0.7
+    },
+    {
+      "timestamp": 111,
+      "energy": 0.7
+    },
+    {
+      "timestamp": 109,
+      "energy": 0.69
+    },
+    {
+      "timestamp": 9,
+      "energy": 0.68
+    },
+    {
+      "timestamp": 64.5,
+      "energy": 0.68
+    },
+    {
+      "timestamp": 81.5,
+      "energy": 0.68
+    },
+    {
+      "timestamp": 40,
+      "energy": 0.67
+    },
+    {
+      "timestamp": 54.5,
+      "energy": 0.67
+    },
+    {
+      "timestamp": 55,
+      "energy": 0.67
+    },
+    {
+      "timestamp": 105.5,
+      "energy": 0.67
+    },
+    {
+      "timestamp": 5.5,
+      "energy": 0.66
+    },
+    {
+      "timestamp": 8,
+      "energy": 0.66
+    },
+    {
+      "timestamp": 14.5,
+      "energy": 0.66
+    },
+    {
+      "timestamp": 22,
+      "energy": 0.66
+    },
+    {
+      "timestamp": 12.5,
+      "energy": 0.65
+    },
+    {
+      "timestamp": 56.5,
+      "energy": 0.65
+    },
+    {
+      "timestamp": 36.5,
+      "energy": 0.64
+    },
+    {
+      "timestamp": 59.5,
+      "energy": 0.64
+    },
+    {
+      "timestamp": 131.5,
+      "energy": 0.64
+    },
+    {
+      "timestamp": 132.5,
+      "energy": 0.64
+    },
+    {
+      "timestamp": 16,
+      "energy": 0.63
+    },
+    {
+      "timestamp": 35.5,
+      "energy": 0.63
+    },
+    {
+      "timestamp": 133,
+      "energy": 0.63
+    },
+    {
+      "timestamp": 2,
+      "energy": 0.62
+    },
+    {
+      "timestamp": 42.5,
+      "energy": 0.62
+    },
+    {
+      "timestamp": 44.5,
+      "energy": 0.62
+    },
+    {
+      "timestamp": 48,
+      "energy": 0.62
+    },
+    {
+      "timestamp": 33.5,
+      "energy": 0.61
+    },
+    {
+      "timestamp": 76.5,
+      "energy": 0.61
+    },
+    {
+      "timestamp": 92.5,
+      "energy": 0.61
+    },
+    {
+      "timestamp": 11,
+      "energy": 0.6
+    },
+    {
+      "timestamp": 29.5,
+      "energy": 0.6
+    },
+    {
+      "timestamp": 33,
+      "energy": 0.6
+    },
+    {
+      "timestamp": 38,
+      "energy": 0.6
+    },
+    {
+      "timestamp": 56,
+      "energy": 0.6
+    }
+  ]
+}

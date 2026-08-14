@@ -1,0 +1,19 @@
+{
+  "name": "tt-editor",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm run dev --prefix my-video",
+    "build": "npm run build --prefix my-video",
+    "render": "npm run render --prefix my-video --",
+    "create-edit": "npm run create-edit --prefix my-video --",
+    "generate-edit": "npm run generate-edit --prefix my-video --",
+    "analyze-video": "npm run analyze-video --prefix my-video --",
+    "analyze-audio": "npm run analyze-audio --prefix my-video --",
+    "batch-render": "npm run batch-render --prefix my-video --",
+    "transcribe": "npm run transcribe --prefix my-video --",
+    "extract-audio": "npm run extract-audio --prefix my-video --",
+    "convert-clip": "npm run convert-clip --prefix my-video --",
+    "lint": "npm run lint --prefix my-video"
+  }
+}

@@ -1,0 +1,862 @@
+{
+  "id": "track-a-edit-10s-33s",
+  "title": "track-a Hype Edit (10s-33s)",
+  "mode": "edit",
+  "audioSrc": "audio/track-a.m4a",
+  "audioStartFrom": 10,
+  "clips": [
+    {
+      "src": "clips/source-a.mp4",
+      "startFrom": 51,
+      "endAt": 52.338,
+      "showAt": 0,
+      "playbackRate": 1,
+      "scale": 1.06,
+      "scaleAnchor": {
+        "x": 0.59,
+        "y": 0.42
+      }
+    },
+    {
+      "src": "clips/source-a.mp4",
+      "startFrom": 0,
+      "endAt": 0.807,
+      "showAt": 1.338,
+      "playbackRate": 0.7,
+      "scale": 1.11,
+      "scaleAnchor": {
+        "x": 0.56,
+        "y": 0.69
+      }
+    },
+    {
+      "src": "clips/source-a.mp4",
+      "startFrom": 1.25,
+      "endAt": 2.062,
+      "showAt": 2.491,
+      "playbackRate": 0.6,
+      "scale": 1.01,
+      "scaleAnchor": {
+        "x": 0.49,
+        "y": 0.53
+      }
+    },
+    {
+      "src": "clips/source-a.mp4",
+      "startFrom": 102,
+      "endAt": 102.441,
+      "showAt": 3.844,
+      "playbackRate": 1,
+      "scale": 1,
+      "scaleAnchor": {
+        "x": 0.46,
+        "y": 0.56
+      }
+    },
+    {
+      "src": "clips/source-a.mp4",
+      "startFrom": 45,
+      "endAt": 45.746,
+      "showAt": 4.285,
+      "playbackRate": 1,
+      "scale": 1.05,
+      "scaleAnchor": {
+        "x": 0.38,
+        "y": 0.33
+      }
+    },
+    {
+      "src": "clips/source-a.mp4",
+      "startFrom": 24,
+      "endAt": 24.887,
+      "showAt": 5.031,
+      "playbackRate": 1,
+      "scale": 1.05,
+      "scaleAnchor": {
+        "x": 0.48,
+        "y": 0.36
+      }
+    },
+    {
+      "src": "clips/source-a.mp4",
+      "startFrom": 83.36,
+      "endAt": 83.559,
+      "showAt": 5.918,
+      "playbackRate": 0.6,
+      "scale": 1.14,
+      "scaleAnchor": {
+        "x": 0.54,
+        "y": 0.44
+      }
+    },
+    {
+      "src": "clips/source-a.mp4",
+      "startFrom": 66,
+      "endAt": 66.25,
+      "showAt": 6.249,
+      "playbackRate": 0.6,
+      "scale": 1.11,
+      "scaleAnchor": {
+        "x": 0.62,
+        "y": 0.34
+      }
+    },
+    {
+      "src": "clips/source-a.mp4",
+      "startFrom": 21,
+      "endAt": 21.456,
+      "showAt": 6.665,
+      "playbackRate": 1,
+      "scale": 1.09,
+      "scaleAnchor": {
+        "x": 0.48,
+        "y": 0.63
+      }
+    },
+    {
+      "src": "clips/source-a.mp4",
+      "startFrom": 69,
+      "endAt": 69.827,
+      "showAt": 7.121,
+      "playbackRate": 1,
+      "scale": 1.07,
+      "scaleAnchor": {
+        "x": 0.61,
+        "y": 0.6
+      }
+    },
+    {
+      "src": "clips/source-a.mp4",
+      "startFrom": 60,
+      "endAt": 60.199,
+      "showAt": 7.948,
+      "playbackRate": 0.6,
+      "scale": 1.12,
+      "scaleAnchor": {
+        "x": 0.43,
+        "y": 0.67
+      }
+    },
+    {
+      "src": "clips/source-a.mp4",
+      "startFrom": 57,
+      "endAt": 57.364,
+      "showAt": 8.279,
+      "playbackRate": 0.6,
+      "scale": 1.14,
+      "scaleAnchor": {
+        "x": 0.64,
+        "y": 0.51
+      }
+    },
+    {
+      "src": "clips/source-a.mp4",
+      "startFrom": 87,
+      "endAt": 87.842,
+      "showAt": 8.885,
+      "playbackRate": 1,
+      "scale": 1.12,
+      "scaleAnchor": {
+        "x": 0.55,
+        "y": 0.34
+      }
+    },
+    {
+      "src": "clips/source-a.mp4",
+      "startFrom": 3,
+      "endAt": 3.557,
+      "showAt": 9.727,
+      "playbackRate": 1.1,
+      "scale": 1.05,
+      "scaleAnchor": {
+        "x": 0.57,
+        "y": 0.46
+      }
+    },
+    {
+      "src": "clips/source-a.mp4",
+      "startFrom": 81,
+      "endAt": 81.286,
+      "showAt": 10.233,
+      "playbackRate": 0.6,
+      "scale": 1.03,
+      "scaleAnchor": {
+        "x": 0.5,
+        "y": 0.55
+      }
+    },
+    {
+      "src": "clips/source-a.mp4",
+      "startFrom": 9,
+      "endAt": 9.456,
+      "showAt": 10.709,
+      "playbackRate": 1,
+      "scale": 1.08,
+      "scaleAnchor": {
+        "x": 0.4,
+        "y": 0.63
+      }
+    },
+    {
+      "src": "clips/source-a.mp4",
+      "startFrom": 12,
+      "endAt": 12.882,
+      "showAt": 11.165,
+      "playbackRate": 1,
+      "scale": 1.08,
+      "scaleAnchor": {
+        "x": 0.68,
+        "y": 0.57
+      }
+    },
+    {
+      "src": "clips/source-a.mp4",
+      "startFrom": 90,
+      "endAt": 90.292,
+      "showAt": 12.047,
+      "playbackRate": 0.6,
+      "scale": 1.06,
+      "scaleAnchor": {
+        "x": 0.43,
+        "y": 0.63
+      }
+    },
+    {
+      "src": "clips/source-a.mp4",
+      "startFrom": 78,
+      "endAt": 78.416,
+      "showAt": 12.533,
+      "playbackRate": 1,
+      "scale": 1.14,
+      "scaleAnchor": {
+        "x": 0.66,
+        "y": 0.69
+      }
+    },
+    {
+      "src": "clips/source-a.mp4",
+      "startFrom": 27,
+      "endAt": 27.421,
+      "showAt": 12.949,
+      "playbackRate": 1,
+      "scale": 1.15,
+      "scaleAnchor": {
+        "x": 0.57,
+        "y": 0.54
+      }
+    },
+    {
+      "src": "clips/source-a.mp4",
+      "startFrom": 62.6,
+      "endAt": 63.069,
+      "showAt": 13.37,
+      "playbackRate": 0.6,
+      "scale": 1.13,
+      "scaleAnchor": {
+        "x": 0.41,
+        "y": 0.56
+      }
+    },
+    {
+      "src": "clips/source-a.mp4",
+      "startFrom": 99,
+      "endAt": 99.807,
+      "showAt": 14.152,
+      "playbackRate": 1,
+      "scale": 1.01,
+      "scaleAnchor": {
+        "x": 0.32,
+        "y": 0.58
+      }
+    },
+    {
+      "src": "clips/source-a.mp4",
+      "startFrom": 48,
+      "endAt": 48.686,
+      "showAt": 14.959,
+      "playbackRate": 1,
+      "scale": 1.01,
+      "scaleAnchor": {
+        "x": 0.37,
+        "y": 0.62
+      }
+    },
+    {
+      "src": "clips/source-a.mp4",
+      "startFrom": 39,
+      "endAt": 39.451,
+      "showAt": 15.645,
+      "playbackRate": 0.6,
+      "scale": 1.05,
+      "scaleAnchor": {
+        "x": 0.31,
+        "y": 0.45
+      }
+    },
+    {
+      "src": "clips/source-a.mp4",
+      "startFrom": 30,
+      "endAt": 30.502,
+      "showAt": 16.397,
+      "playbackRate": 1.1,
+      "scale": 1.02,
+      "scaleAnchor": {
+        "x": 0.54,
+        "y": 0.32
+      }
+    },
+    {
+      "src": "clips/source-a.mp4",
+      "startFrom": 13,
+      "endAt": 13.447,
+      "showAt": 16.853,
+      "playbackRate": 1.1,
+      "scale": 1.07,
+      "scaleAnchor": {
+        "x": 0.31,
+        "y": 0.57
+      }
+    },
+    {
+      "src": "clips/source-a.mp4",
+      "startFrom": 93,
+      "endAt": 93.842,
+      "showAt": 17.259,
+      "playbackRate": 1,
+      "scale": 1.11,
+      "scaleAnchor": {
+        "x": 0.36,
+        "y": 0.54
+      }
+    },
+    {
+      "src": "clips/source-a.mp4",
+      "startFrom": 37,
+      "endAt": 37.877,
+      "showAt": 18.101,
+      "playbackRate": 1,
+      "scale": 1.09,
+      "scaleAnchor": {
+        "x": 0.6,
+        "y": 0.64
+      }
+    },
+    {
+      "src": "clips/source-a.mp4",
+      "startFrom": 75,
+      "endAt": 75.274,
+      "showAt": 18.978,
+      "playbackRate": 0.6,
+      "scale": 1.07,
+      "scaleAnchor": {
+        "x": 0.39,
+        "y": 0.56
+      }
+    },
+    {
+      "src": "clips/source-a.mp4",
+      "startFrom": 105,
+      "endAt": 105.421,
+      "showAt": 19.434,
+      "playbackRate": 1,
+      "scale": 1.05,
+      "scaleAnchor": {
+        "x": 0.46,
+        "y": 0.46
+      }
+    },
+    {
+      "src": "clips/source-a.mp4",
+      "startFrom": 96,
+      "endAt": 96.277,
+      "showAt": 19.855,
+      "playbackRate": 0.6,
+      "scale": 1.08,
+      "scaleAnchor": {
+        "x": 0.6,
+        "y": 0.31
+      }
+    },
+    {
+      "src": "clips/source-a.mp4",
+      "startFrom": 54,
+      "endAt": 54.562,
+      "showAt": 20.316,
+      "playbackRate": 0.6,
+      "scale": 1.08,
+      "scaleAnchor": {
+        "x": 0.57,
+        "y": 0.54
+      }
+    },
+    {
+      "src": "clips/source-a.mp4",
+      "startFrom": 33,
+      "endAt": 33.987,
+      "showAt": 21.253,
+      "playbackRate": 1,
+      "scale": 1.1,
+      "scaleAnchor": {
+        "x": 0.38,
+        "y": 0.41
+      }
+    },
+    {
+      "src": "clips/source-a.mp4",
+      "startFrom": 72,
+      "endAt": 72.376,
+      "showAt": 22.24,
+      "playbackRate": 0.6,
+      "scale": 1.04,
+      "scaleAnchor": {
+        "x": 0.66,
+        "y": 0.69
+      }
+    }
+  ],
+  "effects": {
+    "beatSync": true,
+    "beats": [
+      {
+        "timeInSeconds": 3.007,
+        "effect": "shake",
+        "intensity": 1.63
+      },
+      {
+        "timeInSeconds": 3.007,
+        "effect": "flash",
+        "intensity": 0.944
+      },
+      {
+        "timeInSeconds": 3.217,
+        "effect": "shake",
+        "intensity": 1.63
+      },
+      {
+        "timeInSeconds": 3.217,
+        "effect": "flash",
+        "intensity": 0.944
+      },
+      {
+        "timeInSeconds": 3.423,
+        "effect": "pulse",
+        "intensity": 1.1320000000000001
+      },
+      {
+        "timeInSeconds": 3.638,
+        "effect": "pulse",
+        "intensity": 1.1320000000000001
+      },
+      {
+        "timeInSeconds": 3.844,
+        "effect": "pulse",
+        "intensity": 1.108
+      },
+      {
+        "timeInSeconds": 4.064,
+        "effect": "pulse",
+        "intensity": 1.108
+      },
+      {
+        "timeInSeconds": 5.262,
+        "effect": "pulse",
+        "intensity": 1.1320000000000001
+      },
+      {
+        "timeInSeconds": 5.472,
+        "effect": "pulse",
+        "intensity": 1.1320000000000001
+      },
+      {
+        "timeInSeconds": 5.708,
+        "effect": "pulse",
+        "intensity": 1.1320000000000001
+      },
+      {
+        "timeInSeconds": 5.918,
+        "effect": "pulse",
+        "intensity": 1.116
+      },
+      {
+        "timeInSeconds": 6.249,
+        "effect": "shake",
+        "intensity": 1.595
+      },
+      {
+        "timeInSeconds": 6.249,
+        "effect": "flash",
+        "intensity": 0.916
+      },
+      {
+        "timeInSeconds": 6.46,
+        "effect": "shake",
+        "intensity": 1.575
+      },
+      {
+        "timeInSeconds": 6.46,
+        "effect": "flash",
+        "intensity": 0.9
+      },
+      {
+        "timeInSeconds": 6.665,
+        "effect": "pulse",
+        "intensity": 1.1
+      },
+      {
+        "timeInSeconds": 6.921,
+        "effect": "pulse",
+        "intensity": 1.072
+      },
+      {
+        "timeInSeconds": 7.121,
+        "effect": "pulse",
+        "intensity": 1.072
+      },
+      {
+        "timeInSeconds": 7.322,
+        "effect": "pulse",
+        "intensity": 1.084
+      },
+      {
+        "timeInSeconds": 7.532,
+        "effect": "pulse",
+        "intensity": 1.084
+      },
+      {
+        "timeInSeconds": 7.748,
+        "effect": "pulse",
+        "intensity": 1.084
+      },
+      {
+        "timeInSeconds": 7.948,
+        "effect": "pulse",
+        "intensity": 1.112
+      },
+      {
+        "timeInSeconds": 8.279,
+        "effect": "shake",
+        "intensity": 1.585
+      },
+      {
+        "timeInSeconds": 8.279,
+        "effect": "flash",
+        "intensity": 0.908
+      },
+      {
+        "timeInSeconds": 8.489,
+        "effect": "pulse",
+        "intensity": 1.108
+      },
+      {
+        "timeInSeconds": 8.885,
+        "effect": "shake",
+        "intensity": 1.52
+      },
+      {
+        "timeInSeconds": 8.885,
+        "effect": "flash",
+        "intensity": 0.856
+      },
+      {
+        "timeInSeconds": 9.096,
+        "effect": "pulse",
+        "intensity": 1.056
+      },
+      {
+        "timeInSeconds": 9.301,
+        "effect": "pulse",
+        "intensity": 1.1440000000000001
+      },
+      {
+        "timeInSeconds": 9.527,
+        "effect": "pulse",
+        "intensity": 1.1440000000000001
+      },
+      {
+        "timeInSeconds": 9.727,
+        "effect": "pulse",
+        "intensity": 1.1440000000000001
+      },
+      {
+        "timeInSeconds": 10.018,
+        "effect": "pulse",
+        "intensity": 1.1480000000000001
+      },
+      {
+        "timeInSeconds": 10.233,
+        "effect": "pulse",
+        "intensity": 1.1480000000000001
+      },
+      {
+        "timeInSeconds": 10.439,
+        "effect": "pulse",
+        "intensity": 1.12
+      },
+      {
+        "timeInSeconds": 10.709,
+        "effect": "shake",
+        "intensity": 1.6
+      },
+      {
+        "timeInSeconds": 10.709,
+        "effect": "flash",
+        "intensity": 0.92
+      },
+      {
+        "timeInSeconds": 11.822,
+        "effect": "pulse",
+        "intensity": 1.1520000000000001
+      },
+      {
+        "timeInSeconds": 12.047,
+        "effect": "pulse",
+        "intensity": 1.1520000000000001
+      },
+      {
+        "timeInSeconds": 12.253,
+        "effect": "pulse",
+        "intensity": 1.2000000000000002
+      },
+      {
+        "timeInSeconds": 12.533,
+        "effect": "shake",
+        "intensity": 1.7
+      },
+      {
+        "timeInSeconds": 12.533,
+        "effect": "flash",
+        "intensity": 1
+      },
+      {
+        "timeInSeconds": 12.734,
+        "effect": "pulse",
+        "intensity": 1.2000000000000002
+      },
+      {
+        "timeInSeconds": 12.949,
+        "effect": "pulse",
+        "intensity": 1.1
+      },
+      {
+        "timeInSeconds": 13.155,
+        "effect": "pulse",
+        "intensity": 1.1
+      },
+      {
+        "timeInSeconds": 13.37,
+        "effect": "pulse",
+        "intensity": 1.072
+      },
+      {
+        "timeInSeconds": 13.581,
+        "effect": "pulse",
+        "intensity": 1.072
+      },
+      {
+        "timeInSeconds": 13.952,
+        "effect": "shake",
+        "intensity": 1.54
+      },
+      {
+        "timeInSeconds": 13.952,
+        "effect": "flash",
+        "intensity": 0.872
+      },
+      {
+        "timeInSeconds": 14.152,
+        "effect": "pulse",
+        "intensity": 1.072
+      },
+      {
+        "timeInSeconds": 15.981,
+        "effect": "shake",
+        "intensity": 1.585
+      },
+      {
+        "timeInSeconds": 15.981,
+        "effect": "flash",
+        "intensity": 0.908
+      },
+      {
+        "timeInSeconds": 16.192,
+        "effect": "shake",
+        "intensity": 1.585
+      },
+      {
+        "timeInSeconds": 16.192,
+        "effect": "flash",
+        "intensity": 0.908
+      },
+      {
+        "timeInSeconds": 16.397,
+        "effect": "pulse",
+        "intensity": 1.1720000000000002
+      },
+      {
+        "timeInSeconds": 16.653,
+        "effect": "pulse",
+        "intensity": 1.1720000000000002
+      },
+      {
+        "timeInSeconds": 16.853,
+        "effect": "pulse",
+        "intensity": 1.124
+      },
+      {
+        "timeInSeconds": 17.054,
+        "effect": "pulse",
+        "intensity": 1.124
+      },
+      {
+        "timeInSeconds": 18.306,
+        "effect": "pulse",
+        "intensity": 1.124
+      },
+      {
+        "timeInSeconds": 18.567,
+        "effect": "pulse",
+        "intensity": 1.124
+      },
+      {
+        "timeInSeconds": 18.777,
+        "effect": "pulse",
+        "intensity": 1.116
+      },
+      {
+        "timeInSeconds": 18.978,
+        "effect": "pulse",
+        "intensity": 1.116
+      },
+      {
+        "timeInSeconds": 19.223,
+        "effect": "shake",
+        "intensity": 1.595
+      },
+      {
+        "timeInSeconds": 19.223,
+        "effect": "flash",
+        "intensity": 0.916
+      },
+      {
+        "timeInSeconds": 19.434,
+        "effect": "shake",
+        "intensity": 1.585
+      },
+      {
+        "timeInSeconds": 19.434,
+        "effect": "flash",
+        "intensity": 0.908
+      },
+      {
+        "timeInSeconds": 19.639,
+        "effect": "pulse",
+        "intensity": 1.108
+      },
+      {
+        "timeInSeconds": 19.855,
+        "effect": "pulse",
+        "intensity": 1.092
+      },
+      {
+        "timeInSeconds": 20.11,
+        "effect": "pulse",
+        "intensity": 1.092
+      },
+      {
+        "timeInSeconds": 20.316,
+        "effect": "pulse",
+        "intensity": 1.072
+      },
+      {
+        "timeInSeconds": 20.516,
+        "effect": "shake",
+        "intensity": 1.54
+      },
+      {
+        "timeInSeconds": 20.516,
+        "effect": "flash",
+        "intensity": 0.872
+      },
+      {
+        "timeInSeconds": 20.717,
+        "effect": "pulse",
+        "intensity": 1.072
+      },
+      {
+        "timeInSeconds": 20.922,
+        "effect": "pulse",
+        "intensity": 1.108
+      },
+      {
+        "timeInSeconds": 21.253,
+        "effect": "shake",
+        "intensity": 1.46
+      },
+      {
+        "timeInSeconds": 21.253,
+        "effect": "flash",
+        "intensity": 0.808
+      },
+      {
+        "timeInSeconds": 21.464,
+        "effect": "pulse",
+        "intensity": 1.008
+      },
+      {
+        "timeInSeconds": 21.689,
+        "effect": "pulse",
+        "intensity": 1.008
+      },
+      {
+        "timeInSeconds": 21.915,
+        "effect": "pulse",
+        "intensity": 1.012
+      },
+      {
+        "timeInSeconds": 22.24,
+        "effect": "pulse",
+        "intensity": 1.012
+      },
+      {
+        "timeInSeconds": 22.466,
+        "effect": "shake",
+        "intensity": 1.6099999999999999
+      },
+      {
+        "timeInSeconds": 22.466,
+        "effect": "flash",
+        "intensity": 0.9279999999999999
+      },
+      {
+        "timeInSeconds": 22.666,
+        "effect": "pulse",
+        "intensity": 1.1280000000000001
+      },
+      {
+        "timeInSeconds": 22.867,
+        "effect": "pulse",
+        "intensity": 1.1280000000000001
+      }
+    ],
+    "transitions": "glitch",
+    "colorGrade": "highContrast",
+    "vignette": true
+  },
+  "output": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationInSeconds": 23
+  },
+  "captionsPath": "captions/track-a_10s-33s.json",
+  "captionStyle": {
+    "preset": "vfx",
+    "fontSize": 90,
+    "fontFamily": "Inter",
+    "activeColor": "#FFFFFF",
+    "inactiveColor": "rgba(255,255,255,0.6)",
+    "glowColor": "#FF0055",
+    "position": "center",
+    "combineTokensWithinMs": 800
+  }
+}

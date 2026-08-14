@@ -1,0 +1,121 @@
+{
+  "id": "source-b-lyric-0s-10s",
+  "title": "source-b Lyric Video (0s-10s)",
+  "mode": "lyric",
+  "audioSrc": "clips/source-b.mp4",
+  "clips": [
+    {
+      "src": "clips/source-b.mp4",
+      "startFrom": 6,
+      "endAt": 7.754,
+      "showAt": 0,
+      "playbackRate": 1,
+      "scale": 1.03,
+      "scaleAnchor": {
+        "x": 0.55,
+        "y": 0.45
+      }
+    },
+    {
+      "src": "clips/source-b.mp4",
+      "startFrom": 12,
+      "endAt": 13.734,
+      "showAt": 1.754,
+      "playbackRate": 1,
+      "scale": 1.01,
+      "scaleAnchor": {
+        "x": 0.64,
+        "y": 0.47
+      }
+    },
+    {
+      "src": "clips/source-b.mp4",
+      "startFrom": 10.5,
+      "endAt": 11.652,
+      "showAt": 3.488,
+      "playbackRate": 1,
+      "scale": 1.02,
+      "scaleAnchor": {
+        "x": 0.45,
+        "y": 0.51
+      }
+    },
+    {
+      "src": "clips/source-b.mp4",
+      "startFrom": 3,
+      "endAt": 4.83,
+      "showAt": 4.64,
+      "playbackRate": 1,
+      "scale": 1.05,
+      "scaleAnchor": {
+        "x": 0.47,
+        "y": 0.53
+      }
+    },
+    {
+      "src": "clips/source-b.mp4",
+      "startFrom": 0,
+      "endAt": 1.363,
+      "showAt": 6.47,
+      "playbackRate": 1,
+      "scale": 1.05,
+      "scaleAnchor": {
+        "x": 0.59,
+        "y": 0.43
+      }
+    },
+    {
+      "src": "clips/source-b.mp4",
+      "startFrom": 9.5,
+      "endAt": 10.5,
+      "showAt": 7.833,
+      "playbackRate": 1,
+      "scale": 1.01,
+      "scaleAnchor": {
+        "x": 0.43,
+        "y": 0.3
+      }
+    },
+    {
+      "src": "clips/source-b.mp4",
+      "startFrom": 9.5,
+      "endAt": 9.933,
+      "showAt": 9.567,
+      "playbackRate": 1,
+      "scale": 1.04,
+      "scaleAnchor": {
+        "x": 0.33,
+        "y": 0.64
+      }
+    }
+  ],
+  "effects": {
+    "beatSync": true,
+    "beats": [
+      {
+        "timeInSeconds": 6.47,
+        "effect": "pulse",
+        "intensity": 0.8
+      }
+    ],
+    "transitions": "cut",
+    "colorGrade": "highContrast",
+    "vignette": true
+  },
+  "output": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationInSeconds": 10
+  },
+  "captionStyle": {
+    "preset": "bounce",
+    "fontSize": 72,
+    "fontFamily": "Inter",
+    "activeColor": "#FFFFFF",
+    "inactiveColor": "rgba(255,255,255,0.5)",
+    "backgroundColor": "rgba(0,0,0,0.4)",
+    "position": "center",
+    "combineTokensWithinMs": 1200
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "id": "musikvideo-calm-68s-99s",
+  "title": "musikvideo Calm (68s-99s)",
+  "mode": "edit",
+  "audioSrc": "clips/musikvideo.mp4",
+  "audioStartFrom": 68,
+  "clips": [
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 6.68,
+      "endAt": 9.055,
+      "showAt": 0,
+      "playbackRate": 1,
+      "scale": 1.02,
+      "scaleAnchor": {
+        "x": 0.48,
+        "y": 0.45
+      }
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 112.64,
+      "endAt": 115.918,
+      "showAt": 2.375,
+      "playbackRate": 1,
+      "scale": 1,
+      "scaleAnchor": {
+        "x": 0.52,
+        "y": 0.6
+      },
+      "transition": "cut"
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 123.72,
+      "endAt": 125.335,
+      "showAt": 5.653,
+      "playbackRate": 1.02,
+      "scale": 1.03,
+      "scaleAnchor": {
+        "x": 0.48,
+        "y": 0.57
+      },
+      "transition": "cut"
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 0,
+      "endAt": 2.611,
+      "showAt": 7.236,
+      "playbackRate": 1,
+      "scale": 1.03,
+      "scaleAnchor": {
+        "x": 0.42,
+        "y": 0.47
+      },
+      "transition": "cut"
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 11.48,
+      "endAt": 13.182,
+      "showAt": 9.847,
+      "playbackRate": 1.02,
+      "scale": 1.04,
+      "scaleAnchor": {
+        "x": 0.56,
+        "y": 0.48
+      },
+      "transition": "cut"
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 137.72,
+      "endAt": 140.171,
+      "showAt": 11.516,
+      "playbackRate": 1,
+      "scale": 1,
+      "scaleAnchor": {
+        "x": 0.52,
+        "y": 0.51
+      },
+      "transition": "zoom"
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 56.32,
+      "endAt": 57.904,
+      "showAt": 13.967,
+      "playbackRate": 1.02,
+      "scale": 1.02,
+      "scaleAnchor": {
+        "x": 0.46,
+        "y": 0.51
+      },
+      "transition": "zoom"
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 13.2,
+      "endAt": 14.811,
+      "showAt": 15.52,
+      "playbackRate": 1.02,
+      "scale": 1.02,
+      "scaleAnchor": {
+        "x": 0.47,
+        "y": 0.42
+      },
+      "transition": "zoom"
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 123.72,
+      "endAt": 126.19,
+      "showAt": 17.099,
+      "playbackRate": 1,
+      "scale": 1.02,
+      "scaleAnchor": {
+        "x": 0.43,
+        "y": 0.42
+      },
+      "transition": "zoom"
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 112.64,
+      "endAt": 115.131,
+      "showAt": 19.569,
+      "playbackRate": 1,
+      "scale": 1.02,
+      "scaleAnchor": {
+        "x": 0.44,
+        "y": 0.51
+      },
+      "transition": "zoom"
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 2.75,
+      "endAt": 4.396,
+      "showAt": 22.06,
+      "playbackRate": 1.02,
+      "scale": 1.03,
+      "scaleAnchor": {
+        "x": 0.59,
+        "y": 0.44
+      },
+      "transition": "zoom"
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 123.72,
+      "endAt": 126.19,
+      "showAt": 23.674,
+      "playbackRate": 1,
+      "scale": 1.04,
+      "scaleAnchor": {
+        "x": 0.56,
+        "y": 0.41
+      },
+      "transition": "zoom"
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 6.68,
+      "endAt": 9.231,
+      "showAt": 26.144,
+      "playbackRate": 1,
+      "scale": 1.04,
+      "scaleAnchor": {
+        "x": 0.5,
+        "y": 0.42
+      },
+      "transition": "cut"
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 64.56,
+      "endAt": 66.262,
+      "showAt": 28.695,
+      "playbackRate": 1.02,
+      "scale": 1.03,
+      "scaleAnchor": {
+        "x": 0.59,
+        "y": 0.58
+      },
+      "transition": "zoom"
+    },
+    {
+      "src": "clips/musikvideo.mp4",
+      "startFrom": 80.2,
+      "endAt": 80.701,
+      "showAt": 30.364,
+      "playbackRate": 1,
+      "scale": 1.03,
+      "scaleAnchor": {
+        "x": 0.57,
+        "y": 0.5
+      },
+      "transition": "cut"
+    }
+  ],
+  "effects": {
+    "beatSync": true,
+    "beats": [
+      {
+        "timeInSeconds": 4.46,
+        "effect": "pulse",
+        "intensity": 0.554
+      },
+      {
+        "timeInSeconds": 6.996,
+        "effect": "pulse",
+        "intensity": 0.496
+      },
+      {
+        "timeInSeconds": 10.91,
+        "effect": "pulse",
+        "intensity": 0.5740000000000001
+      },
+      {
+        "timeInSeconds": 11.762,
+        "effect": "pulse",
+        "intensity": 0.562
+      },
+      {
+        "timeInSeconds": 15.049,
+        "effect": "pulse",
+        "intensity": 0.5700000000000001
+      },
+      {
+        "timeInSeconds": 17.299,
+        "effect": "pulse",
+        "intensity": 0.5940000000000001
+      },
+      {
+        "timeInSeconds": 17.715,
+        "effect": "pulse",
+        "intensity": 0.5940000000000001
+      },
+      {
+        "timeInSeconds": 18.131,
+        "effect": "pulse",
+        "intensity": 0.49000000000000005
+      },
+      {
+        "timeInSeconds": 18.818,
+        "effect": "pulse",
+        "intensity": 0.48200000000000004
+      },
+      {
+        "timeInSeconds": 19.98,
+        "effect": "pulse",
+        "intensity": 0.48800000000000004
+      },
+      {
+        "timeInSeconds": 21.098,
+        "effect": "pulse",
+        "intensity": 0.532
+      },
+      {
+        "timeInSeconds": 24.09,
+        "effect": "pulse",
+        "intensity": 0.6000000000000001
+      },
+      {
+        "timeInSeconds": 26.144,
+        "effect": "pulse",
+        "intensity": 0.502
+      },
+      {
+        "timeInSeconds": 26.761,
+        "effect": "pulse",
+        "intensity": 0.538
+      },
+      {
+        "timeInSeconds": 28.199,
+        "effect": "pulse",
+        "intensity": 0.48400000000000004
+      }
+    ],
+    "transitions": "zoom",
+    "colorGrade": "highContrast",
+    "vignette": true
+  },
+  "output": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationInSeconds": 31
+  }
+}

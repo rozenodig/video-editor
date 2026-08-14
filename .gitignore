@@ -1,0 +1,42 @@
+# Dependencies & build output
+node_modules
+dist
+build
+out
+.tmp
+
+# OS
+.DS_Store
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Agent/session files
+.claude/
+.claude.md
+.whisper/
+
+# ─── Media ──────────────────────────────────────────────────────────────
+# Source footage, music and derived transcripts are almost always someone
+# else's copyrighted work. Keep them out of the repo. Bring your own.
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.m4a
+*.mp3
+*.wav
+*.aac
+*.flac
+*.ogg
+
+my-video/public/clips/
+my-video/public/audio/
+my-video/public/lyrics/
+my-video/public/captions/
+
+# Derived numeric analysis (beats, scene boundaries, energy curves) contains
+# no media and is kept — see my-video/public/analysis/

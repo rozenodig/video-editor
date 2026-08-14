@@ -1,0 +1,259 @@
+{
+  "id": "source-b-edit-2s-12s",
+  "title": "source-b Hype Edit (2s-12s)",
+  "mode": "edit",
+  "audioSrc": "clips/source-b.mp4",
+  "clips": [
+    {
+      "src": "clips/source-b.mp4",
+      "startFrom": 6,
+      "endAt": 7.163,
+      "showAt": 0,
+      "playbackRate": 1,
+      "scale": 1.09,
+      "scaleAnchor": {
+        "x": 0.63,
+        "y": 0.67
+      }
+    },
+    {
+      "src": "clips/source-b.mp4",
+      "startFrom": 12,
+      "endAt": 13.293,
+      "showAt": 1.163,
+      "playbackRate": 1,
+      "scale": 1.01,
+      "scaleAnchor": {
+        "x": 0.46,
+        "y": 0.35
+      }
+    },
+    {
+      "src": "clips/source-b.mp4",
+      "startFrom": 3,
+      "endAt": 4.353,
+      "showAt": 2.456,
+      "playbackRate": 1,
+      "scale": 1.05,
+      "scaleAnchor": {
+        "x": 0.69,
+        "y": 0.41
+      }
+    },
+    {
+      "src": "clips/source-b.mp4",
+      "startFrom": 9.5,
+      "endAt": 10.041,
+      "showAt": 3.809,
+      "playbackRate": 0.6,
+      "scale": 1.12,
+      "scaleAnchor": {
+        "x": 0.51,
+        "y": 0.62
+      }
+    },
+    {
+      "src": "clips/source-b.mp4",
+      "startFrom": 10.5,
+      "endAt": 11.342,
+      "showAt": 4.711,
+      "playbackRate": 1,
+      "scale": 1.09,
+      "scaleAnchor": {
+        "x": 0.43,
+        "y": 0.51
+      }
+    },
+    {
+      "src": "clips/source-b.mp4",
+      "startFrom": 0,
+      "endAt": 0.547,
+      "showAt": 5.553,
+      "playbackRate": 0.6,
+      "scale": 1.02,
+      "scaleAnchor": {
+        "x": 0.44,
+        "y": 0.33
+      }
+    },
+    {
+      "src": "clips/source-b.mp4",
+      "startFrom": 6,
+      "endAt": 6.815,
+      "showAt": 6.465,
+      "playbackRate": 0.6,
+      "scale": 1.12,
+      "scaleAnchor": {
+        "x": 0.7,
+        "y": 0.62
+      }
+    },
+    {
+      "src": "clips/source-b.mp4",
+      "startFrom": 10.5,
+      "endAt": 10.963,
+      "showAt": 7.823,
+      "playbackRate": 0.6,
+      "scale": 1.11,
+      "scaleAnchor": {
+        "x": 0.43,
+        "y": 0.67
+      }
+    },
+    {
+      "src": "clips/source-b.mp4",
+      "startFrom": 12,
+      "endAt": 12.277,
+      "showAt": 8.594,
+      "playbackRate": 0.6,
+      "scale": 1.06,
+      "scaleAnchor": {
+        "x": 0.44,
+        "y": 0.43
+      }
+    },
+    {
+      "src": "clips/source-b.mp4",
+      "startFrom": 3,
+      "endAt": 3.274,
+      "showAt": 9.055,
+      "playbackRate": 0.6,
+      "scale": 1.14,
+      "scaleAnchor": {
+        "x": 0.42,
+        "y": 0.52
+      }
+    },
+    {
+      "src": "clips/source-b.mp4",
+      "startFrom": 0,
+      "endAt": 0.293,
+      "showAt": 9.512,
+      "playbackRate": 0.6,
+      "scale": 1.04,
+      "scaleAnchor": {
+        "x": 0.51,
+        "y": 0.58
+      }
+    }
+  ],
+  "effects": {
+    "beatSync": true,
+    "beats": [
+      {
+        "timeInSeconds": 4.47,
+        "effect": "shake",
+        "intensity": 1.455
+      },
+      {
+        "timeInSeconds": 4.47,
+        "effect": "flash",
+        "intensity": 0.804
+      },
+      {
+        "timeInSeconds": 4.711,
+        "effect": "pulse",
+        "intensity": 1.004
+      },
+      {
+        "timeInSeconds": 5.833,
+        "effect": "shake",
+        "intensity": 1.4
+      },
+      {
+        "timeInSeconds": 5.833,
+        "effect": "flash",
+        "intensity": 0.76
+      },
+      {
+        "timeInSeconds": 7.136,
+        "effect": "shake",
+        "intensity": 1.285
+      },
+      {
+        "timeInSeconds": 7.136,
+        "effect": "flash",
+        "intensity": 0.6679999999999999
+      },
+      {
+        "timeInSeconds": 7.823,
+        "effect": "pulse",
+        "intensity": 1.068
+      },
+      {
+        "timeInSeconds": 8.384,
+        "effect": "shake",
+        "intensity": 1.615
+      },
+      {
+        "timeInSeconds": 8.384,
+        "effect": "flash",
+        "intensity": 0.9319999999999999
+      },
+      {
+        "timeInSeconds": 8.594,
+        "effect": "shake",
+        "intensity": 1.615
+      },
+      {
+        "timeInSeconds": 8.594,
+        "effect": "flash",
+        "intensity": 0.9319999999999999
+      },
+      {
+        "timeInSeconds": 8.83,
+        "effect": "pulse",
+        "intensity": 1.2000000000000002
+      },
+      {
+        "timeInSeconds": 9.055,
+        "effect": "shake",
+        "intensity": 1.7
+      },
+      {
+        "timeInSeconds": 9.055,
+        "effect": "flash",
+        "intensity": 1
+      },
+      {
+        "timeInSeconds": 9.271,
+        "effect": "pulse",
+        "intensity": 1.1760000000000002
+      },
+      {
+        "timeInSeconds": 9.512,
+        "effect": "pulse",
+        "intensity": 1.1760000000000002
+      },
+      {
+        "timeInSeconds": 9.712,
+        "effect": "shake",
+        "intensity": 1.67
+      },
+      {
+        "timeInSeconds": 9.712,
+        "effect": "flash",
+        "intensity": 0.976
+      },
+      {
+        "timeInSeconds": 9.912,
+        "effect": "shake",
+        "intensity": 1.67
+      },
+      {
+        "timeInSeconds": 9.912,
+        "effect": "flash",
+        "intensity": 0.976
+      }
+    ],
+    "transitions": "glitch",
+    "colorGrade": "highContrast",
+    "vignette": true
+  },
+  "output": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationInSeconds": 10
+  }
+}

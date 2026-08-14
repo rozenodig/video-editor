@@ -1,0 +1,213 @@
+{
+  "sourceVideo": "clips/SxG3b.mp4",
+  "duration": 22.752698,
+  "fps": 30,
+  "width": 720,
+  "height": 1280,
+  "scenes": [
+    {
+      "startTime": 0,
+      "endTime": 3,
+      "duration": 3,
+      "visualEnergy": 1
+    },
+    {
+      "startTime": 3,
+      "endTime": 6,
+      "duration": 3,
+      "visualEnergy": 0.89
+    },
+    {
+      "startTime": 6,
+      "endTime": 9,
+      "duration": 3,
+      "visualEnergy": 0.73
+    },
+    {
+      "startTime": 9,
+      "endTime": 12,
+      "duration": 3,
+      "visualEnergy": 0.92
+    },
+    {
+      "startTime": 12,
+      "endTime": 15,
+      "duration": 3,
+      "visualEnergy": 0.81
+    },
+    {
+      "startTime": 15,
+      "endTime": 19.25,
+      "duration": 4.25,
+      "visualEnergy": 0.88
+    },
+    {
+      "startTime": 19.25,
+      "endTime": 21,
+      "duration": 1.75,
+      "visualEnergy": 0.97
+    },
+    {
+      "startTime": 21,
+      "endTime": 22.753,
+      "duration": 1.753,
+      "visualEnergy": 0.68
+    }
+  ],
+  "sceneChanges": [
+    0,
+    3,
+    6,
+    9,
+    12,
+    15,
+    19.25,
+    21
+  ],
+  "highEnergyMoments": [
+    {
+      "timestamp": 10,
+      "energy": 1
+    },
+    {
+      "timestamp": 20,
+      "energy": 1
+    },
+    {
+      "timestamp": 0.5,
+      "energy": 0.96
+    },
+    {
+      "timestamp": 10.5,
+      "energy": 0.94
+    },
+    {
+      "timestamp": 2,
+      "energy": 0.93
+    },
+    {
+      "timestamp": 18.5,
+      "energy": 0.92
+    },
+    {
+      "timestamp": 18,
+      "energy": 0.91
+    },
+    {
+      "timestamp": 1,
+      "energy": 0.9
+    },
+    {
+      "timestamp": 1.5,
+      "energy": 0.9
+    },
+    {
+      "timestamp": 19.5,
+      "energy": 0.89
+    },
+    {
+      "timestamp": 11,
+      "energy": 0.87
+    },
+    {
+      "timestamp": 2.5,
+      "energy": 0.85
+    },
+    {
+      "timestamp": 15,
+      "energy": 0.85
+    },
+    {
+      "timestamp": 17,
+      "energy": 0.84
+    },
+    {
+      "timestamp": 17.5,
+      "energy": 0.84
+    },
+    {
+      "timestamp": 19,
+      "energy": 0.84
+    },
+    {
+      "timestamp": 3,
+      "energy": 0.8
+    },
+    {
+      "timestamp": 3.5,
+      "energy": 0.8
+    },
+    {
+      "timestamp": 12.5,
+      "energy": 0.8
+    },
+    {
+      "timestamp": 5,
+      "energy": 0.79
+    },
+    {
+      "timestamp": 20.5,
+      "energy": 0.77
+    },
+    {
+      "timestamp": 5.5,
+      "energy": 0.76
+    },
+    {
+      "timestamp": 11.5,
+      "energy": 0.76
+    },
+    {
+      "timestamp": 16.5,
+      "energy": 0.76
+    },
+    {
+      "timestamp": 4,
+      "energy": 0.75
+    },
+    {
+      "timestamp": 6,
+      "energy": 0.75
+    },
+    {
+      "timestamp": 12,
+      "energy": 0.75
+    },
+    {
+      "timestamp": 9.5,
+      "energy": 0.72
+    },
+    {
+      "timestamp": 14.5,
+      "energy": 0.72
+    },
+    {
+      "timestamp": 4.5,
+      "energy": 0.71
+    },
+    {
+      "timestamp": 13,
+      "energy": 0.7
+    },
+    {
+      "timestamp": 14,
+      "energy": 0.66
+    },
+    {
+      "timestamp": 6.5,
+      "energy": 0.64
+    },
+    {
+      "timestamp": 9,
+      "energy": 0.62
+    },
+    {
+      "timestamp": 21,
+      "energy": 0.62
+    },
+    {
+      "timestamp": 15.5,
+      "energy": 0.6
+    }
+  ]
+}
