@@ -132,6 +132,30 @@ npm run convert-clip -- /path/to/raw-footage.mov
 
 ## Quick start
 
+A fresh clone ships with one runnable demo. `public/demo/demo-source.mp4` is a
+15-second clip generated procedurally with ffmpeg — gradient and test-pattern
+scenes over a synthesised 120 BPM beat — so there is no third-party media in
+this repository and nothing to download:
+
+```bash
+npm run dev                                                  # Studio → "Demo" folder
+npm run render -- configs/auto-generated/demo-source-edit-0s-15s.json
+```
+
+To regenerate that config from scratch and watch the whole pipeline run:
+
+```bash
+npm run create-edit -- \
+  --video public/demo/demo-source.mp4 \
+  --audio public/demo/demo-source.mp4 \
+  --from 0 --to 15 --mode edit --style cinematic
+```
+
+Beat detection recovers 120 BPM from the demo track, which doubles as a sanity
+check that the analyser is working.
+
+### On your own footage
+
 The one command that does everything:
 
 ```bash
@@ -463,6 +487,7 @@ TT_EDITOR/
     │   ├── sample-lyric.json
     │   └── auto-generated/          # output of generate-edit
     ├── public/                      # served by Remotion via staticFile()
+    │   ├── demo/                    # synthetic ffmpeg demo clip (committed)
     │   ├── clips/                   # source video (gitignored)
     │   ├── audio/                   # music tracks (gitignored)
     │   ├── lyrics/                  # .srt files (gitignored)
@@ -554,9 +579,13 @@ containing spaces still work.
 
 ## Media, assets and licensing
 
-**No media ships with this repository.** `public/clips/`, `public/audio/`,
-`public/lyrics/` and `public/captions/` are gitignored, as is `out/`. A clone
-gives you the tooling, not the footage.
+**No third-party media ships with this repository.** `public/clips/`,
+`public/audio/`, `public/lyrics/` and `public/captions/` are gitignored, as is
+`out/`. A clone gives you the tooling, the demo clip, and nothing else.
+
+The single committed media file, `public/demo/demo-source.mp4`, is generated
+procedurally by ffmpeg from `gradients`, `smptebars`, `rgbtestsrc` and
+`testsrc2` sources with a synthesised 120 BPM beat. Nobody holds rights in it.
 
 That's deliberate: the source video and music you feed this thing are almost
 certainly someone's copyrighted work, and they don't belong in a public git

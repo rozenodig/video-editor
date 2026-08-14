@@ -1,0 +1,682 @@
+{
+  "id": "demo-source-edit-0s-15s",
+  "title": "demo-source Hype Edit (0s-15s)",
+  "mode": "edit",
+  "audioSrc": "demo/demo-source.mp4",
+  "clips": [
+    {
+      "src": "demo/demo-source.mp4",
+      "startFrom": 13,
+      "endAt": 13.298,
+      "showAt": 0,
+      "playbackRate": 0.6,
+      "scale": 1.14,
+      "scaleAnchor": {
+        "x": 0.45,
+        "y": 0.59
+      }
+    },
+    {
+      "src": "demo/demo-source.mp4",
+      "startFrom": 10,
+      "endAt": 10.501,
+      "showAt": 0.496,
+      "playbackRate": 1,
+      "scale": 1.11,
+      "scaleAnchor": {
+        "x": 0.48,
+        "y": 0.46
+      }
+    },
+    {
+      "src": "demo/demo-source.mp4",
+      "startFrom": 13.5,
+      "endAt": 14,
+      "showAt": 0.997,
+      "playbackRate": 1.01,
+      "scale": 1.09,
+      "scaleAnchor": {
+        "x": 0.6,
+        "y": 0.51
+      }
+    },
+    {
+      "src": "demo/demo-source.mp4",
+      "startFrom": 11,
+      "endAt": 11.301,
+      "showAt": 1.493,
+      "playbackRate": 0.6,
+      "scale": 1.11,
+      "scaleAnchor": {
+        "x": 0.44,
+        "y": 0.55
+      }
+    },
+    {
+      "src": "demo/demo-source.mp4",
+      "startFrom": 0,
+      "endAt": 0.301,
+      "showAt": 1.995,
+      "playbackRate": 0.6,
+      "scale": 1.03,
+      "scaleAnchor": {
+        "x": 0.55,
+        "y": 0.59
+      }
+    },
+    {
+      "src": "demo/demo-source.mp4",
+      "startFrom": 5,
+      "endAt": 5.501,
+      "showAt": 2.496,
+      "playbackRate": 1,
+      "scale": 1.01,
+      "scaleAnchor": {
+        "x": 0.59,
+        "y": 0.54
+      }
+    },
+    {
+      "src": "demo/demo-source.mp4",
+      "startFrom": 12.5,
+      "endAt": 13,
+      "showAt": 2.997,
+      "playbackRate": 1.01,
+      "scale": 1.05,
+      "scaleAnchor": {
+        "x": 0.46,
+        "y": 0.6
+      }
+    },
+    {
+      "src": "demo/demo-source.mp4",
+      "startFrom": 7.75,
+      "endAt": 8.051,
+      "showAt": 3.493,
+      "playbackRate": 0.6,
+      "scale": 1.05,
+      "scaleAnchor": {
+        "x": 0.53,
+        "y": 0.53
+      }
+    },
+    {
+      "src": "demo/demo-source.mp4",
+      "startFrom": 2.75,
+      "endAt": 3.051,
+      "showAt": 3.994,
+      "playbackRate": 0.6,
+      "scale": 1.07,
+      "scaleAnchor": {
+        "x": 0.42,
+        "y": 0.58
+      }
+    },
+    {
+      "src": "demo/demo-source.mp4",
+      "startFrom": 5,
+      "endAt": 5.301,
+      "showAt": 4.495,
+      "playbackRate": 0.6,
+      "scale": 1.03,
+      "scaleAnchor": {
+        "x": 0.56,
+        "y": 0.52
+      }
+    },
+    {
+      "src": "demo/demo-source.mp4",
+      "startFrom": 5,
+      "endAt": 5.501,
+      "showAt": 4.996,
+      "playbackRate": 1,
+      "scale": 1.06,
+      "scaleAnchor": {
+        "x": 0.54,
+        "y": 0.43
+      }
+    },
+    {
+      "src": "demo/demo-source.mp4",
+      "startFrom": 14,
+      "endAt": 14.298,
+      "showAt": 5.497,
+      "playbackRate": 0.6,
+      "scale": 1.04,
+      "scaleAnchor": {
+        "x": 0.44,
+        "y": 0.59
+      }
+    },
+    {
+      "src": "demo/demo-source.mp4",
+      "startFrom": 7.75,
+      "endAt": 8.051,
+      "showAt": 5.994,
+      "playbackRate": 0.6,
+      "scale": 1.06,
+      "scaleAnchor": {
+        "x": 0.49,
+        "y": 0.56
+      }
+    },
+    {
+      "src": "demo/demo-source.mp4",
+      "startFrom": 11,
+      "endAt": 11.301,
+      "showAt": 6.495,
+      "playbackRate": 0.6,
+      "scale": 1.07,
+      "scaleAnchor": {
+        "x": 0.57,
+        "y": 0.48
+      }
+    },
+    {
+      "src": "demo/demo-source.mp4",
+      "startFrom": 11,
+      "endAt": 11.501,
+      "showAt": 6.996,
+      "playbackRate": 1,
+      "scale": 1.13,
+      "scaleAnchor": {
+        "x": 0.55,
+        "y": 0.42
+      }
+    },
+    {
+      "src": "demo/demo-source.mp4",
+      "startFrom": 14.5,
+      "endAt": 15,
+      "showAt": 7.497,
+      "playbackRate": 1.01,
+      "scale": 1.01,
+      "scaleAnchor": {
+        "x": 0.58,
+        "y": 0.58
+      }
+    },
+    {
+      "src": "demo/demo-source.mp4",
+      "startFrom": 5,
+      "endAt": 5.301,
+      "showAt": 7.993,
+      "playbackRate": 0.6,
+      "scale": 1.01,
+      "scaleAnchor": {
+        "x": 0.4,
+        "y": 0.53
+      }
+    },
+    {
+      "src": "demo/demo-source.mp4",
+      "startFrom": 7.75,
+      "endAt": 8.051,
+      "showAt": 8.494,
+      "playbackRate": 0.6,
+      "scale": 1.14,
+      "scaleAnchor": {
+        "x": 0.56,
+        "y": 0.47
+      }
+    },
+    {
+      "src": "demo/demo-source.mp4",
+      "startFrom": 11,
+      "endAt": 11.501,
+      "showAt": 8.995,
+      "playbackRate": 1,
+      "scale": 1.09,
+      "scaleAnchor": {
+        "x": 0.41,
+        "y": 0.57
+      }
+    },
+    {
+      "src": "demo/demo-source.mp4",
+      "startFrom": 12.5,
+      "endAt": 13,
+      "showAt": 9.496,
+      "playbackRate": 1.01,
+      "scale": 1.06,
+      "scaleAnchor": {
+        "x": 0.59,
+        "y": 0.56
+      }
+    },
+    {
+      "src": "demo/demo-source.mp4",
+      "startFrom": 0,
+      "endAt": 0.301,
+      "showAt": 9.993,
+      "playbackRate": 0.6,
+      "scale": 1.06,
+      "scaleAnchor": {
+        "x": 0.42,
+        "y": 0.49
+      }
+    },
+    {
+      "src": "demo/demo-source.mp4",
+      "startFrom": 10,
+      "endAt": 10.301,
+      "showAt": 10.494,
+      "playbackRate": 0.6,
+      "scale": 1.01,
+      "scaleAnchor": {
+        "x": 0.44,
+        "y": 0.54
+      }
+    },
+    {
+      "src": "demo/demo-source.mp4",
+      "startFrom": 2.75,
+      "endAt": 3.051,
+      "showAt": 10.995,
+      "playbackRate": 0.6,
+      "scale": 1.08,
+      "scaleAnchor": {
+        "x": 0.5,
+        "y": 0.54
+      }
+    },
+    {
+      "src": "demo/demo-source.mp4",
+      "startFrom": 11,
+      "endAt": 11.501,
+      "showAt": 11.496,
+      "playbackRate": 1,
+      "scale": 1.08,
+      "scaleAnchor": {
+        "x": 0.56,
+        "y": 0.43
+      }
+    },
+    {
+      "src": "demo/demo-source.mp4",
+      "startFrom": 13.5,
+      "endAt": 14,
+      "showAt": 11.997,
+      "playbackRate": 1.01,
+      "scale": 1.01,
+      "scaleAnchor": {
+        "x": 0.42,
+        "y": 0.59
+      }
+    },
+    {
+      "src": "demo/demo-source.mp4",
+      "startFrom": 5,
+      "endAt": 5.301,
+      "showAt": 12.493,
+      "playbackRate": 0.6,
+      "scale": 1.01,
+      "scaleAnchor": {
+        "x": 0.6,
+        "y": 0.42
+      }
+    },
+    {
+      "src": "demo/demo-source.mp4",
+      "startFrom": 11,
+      "endAt": 11.301,
+      "showAt": 12.994,
+      "playbackRate": 0.6,
+      "scale": 1.11,
+      "scaleAnchor": {
+        "x": 0.53,
+        "y": 0.55
+      }
+    },
+    {
+      "src": "demo/demo-source.mp4",
+      "startFrom": 0,
+      "endAt": 0.501,
+      "showAt": 13.496,
+      "playbackRate": 1,
+      "scale": 1.07,
+      "scaleAnchor": {
+        "x": 0.54,
+        "y": 0.43
+      }
+    },
+    {
+      "src": "demo/demo-source.mp4",
+      "startFrom": 13,
+      "endAt": 13.5,
+      "showAt": 13.997,
+      "playbackRate": 1.01,
+      "scale": 1.09,
+      "scaleAnchor": {
+        "x": 0.55,
+        "y": 0.58
+      }
+    },
+    {
+      "src": "demo/demo-source.mp4",
+      "startFrom": 11,
+      "endAt": 11.558,
+      "showAt": 14.493,
+      "playbackRate": 1.1,
+      "scale": 1.08,
+      "scaleAnchor": {
+        "x": 0.53,
+        "y": 0.43
+      }
+    }
+  ],
+  "effects": {
+    "beatSync": true,
+    "beats": [
+      {
+        "timeInSeconds": 0.496,
+        "effect": "shake",
+        "intensity": 1.65
+      },
+      {
+        "timeInSeconds": 0.496,
+        "effect": "flash",
+        "intensity": 0.96
+      },
+      {
+        "timeInSeconds": 0.747,
+        "effect": "pulse",
+        "intensity": 1.1600000000000001
+      },
+      {
+        "timeInSeconds": 0.997,
+        "effect": "pulse",
+        "intensity": 1.1640000000000001
+      },
+      {
+        "timeInSeconds": 1.493,
+        "effect": "pulse",
+        "intensity": 1.1640000000000001
+      },
+      {
+        "timeInSeconds": 1.995,
+        "effect": "shake",
+        "intensity": 1.67
+      },
+      {
+        "timeInSeconds": 1.995,
+        "effect": "flash",
+        "intensity": 0.976
+      },
+      {
+        "timeInSeconds": 2.496,
+        "effect": "shake",
+        "intensity": 1.66
+      },
+      {
+        "timeInSeconds": 2.496,
+        "effect": "flash",
+        "intensity": 0.968
+      },
+      {
+        "timeInSeconds": 2.746,
+        "effect": "pulse",
+        "intensity": 1.1680000000000001
+      },
+      {
+        "timeInSeconds": 2.997,
+        "effect": "pulse",
+        "intensity": 1.1600000000000001
+      },
+      {
+        "timeInSeconds": 3.493,
+        "effect": "pulse",
+        "intensity": 1.1600000000000001
+      },
+      {
+        "timeInSeconds": 3.994,
+        "effect": "shake",
+        "intensity": 1.67
+      },
+      {
+        "timeInSeconds": 3.994,
+        "effect": "flash",
+        "intensity": 0.976
+      },
+      {
+        "timeInSeconds": 4.495,
+        "effect": "shake",
+        "intensity": 1.65
+      },
+      {
+        "timeInSeconds": 4.495,
+        "effect": "flash",
+        "intensity": 0.96
+      },
+      {
+        "timeInSeconds": 4.746,
+        "effect": "pulse",
+        "intensity": 1.1600000000000001
+      },
+      {
+        "timeInSeconds": 4.996,
+        "effect": "shake",
+        "intensity": 1.64
+      },
+      {
+        "timeInSeconds": 4.996,
+        "effect": "flash",
+        "intensity": 0.952
+      },
+      {
+        "timeInSeconds": 5.247,
+        "effect": "pulse",
+        "intensity": 1.1520000000000001
+      },
+      {
+        "timeInSeconds": 5.497,
+        "effect": "pulse",
+        "intensity": 1.1600000000000001
+      },
+      {
+        "timeInSeconds": 5.994,
+        "effect": "shake",
+        "intensity": 1.67
+      },
+      {
+        "timeInSeconds": 5.994,
+        "effect": "flash",
+        "intensity": 0.976
+      },
+      {
+        "timeInSeconds": 6.495,
+        "effect": "shake",
+        "intensity": 1.645
+      },
+      {
+        "timeInSeconds": 6.495,
+        "effect": "flash",
+        "intensity": 0.956
+      },
+      {
+        "timeInSeconds": 6.745,
+        "effect": "pulse",
+        "intensity": 1.1560000000000001
+      },
+      {
+        "timeInSeconds": 6.996,
+        "effect": "shake",
+        "intensity": 1.645
+      },
+      {
+        "timeInSeconds": 6.996,
+        "effect": "flash",
+        "intensity": 0.956
+      },
+      {
+        "timeInSeconds": 7.246,
+        "effect": "pulse",
+        "intensity": 1.1560000000000001
+      },
+      {
+        "timeInSeconds": 7.497,
+        "effect": "pulse",
+        "intensity": 1.1560000000000001
+      },
+      {
+        "timeInSeconds": 7.993,
+        "effect": "pulse",
+        "intensity": 1.1720000000000002
+      },
+      {
+        "timeInSeconds": 8.244,
+        "effect": "pulse",
+        "intensity": 1.1720000000000002
+      },
+      {
+        "timeInSeconds": 8.494,
+        "effect": "shake",
+        "intensity": 1.65
+      },
+      {
+        "timeInSeconds": 8.494,
+        "effect": "flash",
+        "intensity": 0.96
+      },
+      {
+        "timeInSeconds": 8.745,
+        "effect": "pulse",
+        "intensity": 1.1600000000000001
+      },
+      {
+        "timeInSeconds": 8.995,
+        "effect": "shake",
+        "intensity": 1.65
+      },
+      {
+        "timeInSeconds": 8.995,
+        "effect": "flash",
+        "intensity": 0.96
+      },
+      {
+        "timeInSeconds": 9.246,
+        "effect": "pulse",
+        "intensity": 1.1600000000000001
+      },
+      {
+        "timeInSeconds": 9.496,
+        "effect": "pulse",
+        "intensity": 1.1560000000000001
+      },
+      {
+        "timeInSeconds": 9.993,
+        "effect": "pulse",
+        "intensity": 1.1760000000000002
+      },
+      {
+        "timeInSeconds": 10.494,
+        "effect": "shake",
+        "intensity": 1.65
+      },
+      {
+        "timeInSeconds": 10.494,
+        "effect": "flash",
+        "intensity": 0.96
+      },
+      {
+        "timeInSeconds": 10.744,
+        "effect": "pulse",
+        "intensity": 1.1600000000000001
+      },
+      {
+        "timeInSeconds": 10.995,
+        "effect": "shake",
+        "intensity": 1.655
+      },
+      {
+        "timeInSeconds": 10.995,
+        "effect": "flash",
+        "intensity": 0.964
+      },
+      {
+        "timeInSeconds": 11.245,
+        "effect": "pulse",
+        "intensity": 1.1640000000000001
+      },
+      {
+        "timeInSeconds": 11.496,
+        "effect": "shake",
+        "intensity": 1.645
+      },
+      {
+        "timeInSeconds": 11.496,
+        "effect": "flash",
+        "intensity": 0.956
+      },
+      {
+        "timeInSeconds": 11.747,
+        "effect": "pulse",
+        "intensity": 1.1560000000000001
+      },
+      {
+        "timeInSeconds": 11.997,
+        "effect": "pulse",
+        "intensity": 1.1760000000000002
+      },
+      {
+        "timeInSeconds": 12.493,
+        "effect": "pulse",
+        "intensity": 1.1560000000000001
+      },
+      {
+        "timeInSeconds": 12.994,
+        "effect": "shake",
+        "intensity": 1.645
+      },
+      {
+        "timeInSeconds": 12.994,
+        "effect": "flash",
+        "intensity": 0.956
+      },
+      {
+        "timeInSeconds": 13.245,
+        "effect": "pulse",
+        "intensity": 1.1560000000000001
+      },
+      {
+        "timeInSeconds": 13.496,
+        "effect": "shake",
+        "intensity": 1.64
+      },
+      {
+        "timeInSeconds": 13.496,
+        "effect": "flash",
+        "intensity": 0.952
+      },
+      {
+        "timeInSeconds": 13.746,
+        "effect": "pulse",
+        "intensity": 1.1520000000000001
+      },
+      {
+        "timeInSeconds": 13.997,
+        "effect": "pulse",
+        "intensity": 1.1800000000000002
+      },
+      {
+        "timeInSeconds": 14.493,
+        "effect": "pulse",
+        "intensity": 1.1800000000000002
+      },
+      {
+        "timeInSeconds": 14.743,
+        "effect": "pulse",
+        "intensity": 1.1800000000000002
+      }
+    ],
+    "transitions": "glitch",
+    "colorGrade": "cinematic",
+    "vignette": true
+  },
+  "output": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationInSeconds": 15
+  }
+}

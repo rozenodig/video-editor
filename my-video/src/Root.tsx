@@ -4,6 +4,10 @@ import React from "react";
 import { VideoComposition } from "./VideoComposition";
 import type { VideoConfig } from "./types/VideoConfig";
 
+// The only composition that renders on a fresh clone — its source media is a
+// synthetic ffmpeg-generated clip committed under public/demo/.
+import demoEdit from "../configs/auto-generated/demo-source-edit-0s-15s.json";
+
 import trackAEdit from "../configs/auto-generated/track-a-edit-10s-33s.json";
 import sxg3bEdit from "../configs/auto-generated/sxg3b-edit-0s-20s.json";
 import musikvideoEdit from "../configs/auto-generated/musikvideo-edit-0s-25s.json";
@@ -54,6 +58,7 @@ function ConfigFolder({
 export const RemotionRoot: React.FC = () => {
   return (
     <>
+      <ConfigFolder name="Demo" configs={[demoEdit] as VideoConfig[]} />
       <ConfigFolder name="Auto-Generated" configs={autoConfigs} />
     </>
   );

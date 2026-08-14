@@ -1,0 +1,106 @@
+{
+  "sourceVideo": "demo/demo-source.mp4",
+  "duration": 15,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "scenes": [
+    {
+      "startTime": 0,
+      "endTime": 2.75,
+      "duration": 2.75,
+      "visualEnergy": 0.14
+    },
+    {
+      "startTime": 2.75,
+      "endTime": 5,
+      "duration": 2.25,
+      "visualEnergy": 0.03
+    },
+    {
+      "startTime": 5,
+      "endTime": 7.75,
+      "duration": 2.75,
+      "visualEnergy": 0.25
+    },
+    {
+      "startTime": 7.75,
+      "endTime": 10,
+      "duration": 2.25,
+      "visualEnergy": 0.05
+    },
+    {
+      "startTime": 10,
+      "endTime": 11,
+      "duration": 1,
+      "visualEnergy": 0.19
+    },
+    {
+      "startTime": 11,
+      "endTime": 12.5,
+      "duration": 1.5,
+      "visualEnergy": 0.29
+    },
+    {
+      "startTime": 12.5,
+      "endTime": 13,
+      "duration": 0.5,
+      "visualEnergy": 0.91
+    },
+    {
+      "startTime": 13,
+      "endTime": 13.5,
+      "duration": 0.5,
+      "visualEnergy": 0.98
+    },
+    {
+      "startTime": 13.5,
+      "endTime": 14,
+      "duration": 0.5,
+      "visualEnergy": 0.95
+    },
+    {
+      "startTime": 14,
+      "endTime": 14.5,
+      "duration": 0.5,
+      "visualEnergy": 0.95
+    },
+    {
+      "startTime": 14.5,
+      "endTime": 15,
+      "duration": 0.5,
+      "visualEnergy": 0.84
+    }
+  ],
+  "sceneChanges": [
+    0,
+    2.75,
+    5,
+    7.75,
+    10,
+    11,
+    12.5,
+    13,
+    13.5,
+    14,
+    14.5
+  ],
+  "highEnergyMoments": [
+    {
+      "timestamp": 13.5,
+      "energy": 1
+    },
+    {
+      "timestamp": 13,
+      "energy": 0.99
+    },
+    {
+      "timestamp": 14,
+      "energy": 0.97
+    },
+    {
+      "timestamp": 12.5,
+      "energy": 0.66
+    }
+  ]
+}

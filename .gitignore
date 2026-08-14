@@ -38,5 +38,10 @@ my-video/public/audio/
 my-video/public/lyrics/
 my-video/public/captions/
 
+# Exception: the demo clip is generated procedurally with ffmpeg (gradients,
+# test patterns, a synthesised 120 BPM beat). No third-party rights attach to
+# it, and it gives a fresh clone something to actually render.
+!my-video/public/demo/demo-source.mp4
+
 # Derived numeric analysis (beats, scene boundaries, energy curves) contains
 # no media and is kept — see my-video/public/analysis/
