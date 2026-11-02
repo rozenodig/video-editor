@@ -7,11 +7,11 @@
   "private": true,
   "dependencies": {
     "@remotion/captions": "4.0.441",
-    "@remotion/cli": "4.0.441",
+    "@remotion/cli": "4.0.540",
     "@remotion/install-whisper-cpp": "4.0.441",
     "@remotion/media": "4.0.441",
     "@remotion/media-utils": "4.0.441",
-    "@remotion/tailwind-v4": "4.0.441",
+    "@remotion/tailwind-v4": "4.0.540",
     "@types/node": "22.15.2",
     "react": "19.2.3",
     "react-dom": "19.2.3",
